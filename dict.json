@@ -866,6 +866,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "baena",
+		"english": "rule",
+		"hint": "govern",
+		"pos": "verb"
+	},
+	{
 		"felin": "bahu",
 		"english": "fragment",
 		"hint": "piece",
