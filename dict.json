@@ -7317,6 +7317,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "methai",
+		"english": "silence",
+		"hint": "",
+		"pos": "noun"
+	},
+	{
 		"felin": "methe",
 		"english": "sound",
 		"pos": "noun"
@@ -7506,6 +7512,18 @@
 		"english": "blur",
 		"hint": "make unsharp",
 		"pos": "verb"
+	},
+	{
+		"felin": "mithi",
+		"english": "life",
+		"hint": "living things",
+		"pos": "noun"
+	},
+	{
+		"felin": "mithi",
+		"english": "lively",
+		"hint": "energetic",
+		"pos": "adjective"
 	},
 	{
 		"felin": "misrelim",
