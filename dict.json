@@ -2703,12 +2703,6 @@
 		"notes": "Mind the number base: this is written 1,3000"
 	},
 	{
-		"felin": "ewia-tiksre eshene",
-		"english": "thousand",
-		"pos": "noun",
-		"notes": "Mind the number base: this is written 1,3000"
-	},
-	{
 		"felin": "ewia-tiksre eska-shaewia",
 		"english": "nine hundred",
 		"hint": "900",
@@ -3488,7 +3482,7 @@
 		"felin": "fidthrul",
 		"english": "some day",
 		"hint": "eventually",
-		"pos": "phrase"
+		"pos": "adjective"
 	},
 	{
 		"felin": "fie'iat",
@@ -4073,7 +4067,7 @@
 		"felin": "henrha grewhura",
 		"english": "march",
 		"hint": "month",
-		"pos": "proper noun",
+		"pos": "noun",
 		"notes": "Third Gre(gorian) month"
 	},
 	{
@@ -5862,7 +5856,7 @@
 		"felin": "kosafol",
 		"english": "Kauzasian",
 		"hint": "conlang",
-		"pos": "adjective"
+		"pos": "proper noun"
 	},
 	{
 		"felin": "kovin",
@@ -7710,12 +7704,12 @@
 		"felin": "mreifim",
 		"english": "boldly",
 		"hint": "without a fear",
-		"pos": "noun"
+		"pos": "adverb"
 	},
 	{
 		"felin": "mreifim",
 		"english": "bold",
-		"pos": "noun"
+		"pos": "adjective"
 	},
 	{
 		"felin": "mreifim",
@@ -8265,7 +8259,7 @@
 		"felin": "naim-tiksre shaka-tikaie-tik-setiksre",
 		"english": "billion",
 		"hint": "10^9",
-		"pos": "noun",
+		"pos": "numeral",
 		"notes": "Mind the number base: this is written 4,0220,0000,0000"
 	},
 	{
@@ -8509,7 +8503,7 @@
 	{
 		"felin": "niadie",
 		"english": "combination",
-		"pos": "verb"
+		"pos": "noun"
 	},
 	{
 		"felin": "niarh",
@@ -9355,7 +9349,7 @@
 		"felin": "plarifolpalruti",
 		"english": "ConWorkShop",
 		"hint": "best website",
-		"pos": "noun"
+		"pos": "proper noun"
 	},
 	{
 		"felin": "plariklamifhra",
@@ -11031,8 +11025,8 @@
 	{
 		"felin": "shana-tisela",
 		"english": "one hundred five",
-		"hint": "DO NOT USE",
-		"pos": "noun",
+		"hint": "105",
+		"pos": "numeral",
 		"notes": "Mind the number base: this is written 410"
 	},
 	{
@@ -11054,13 +11048,6 @@
 		"english": "hundred",
 		"hint": "number",
 		"pos": "determiner",
-		"notes": "Mind the number base: this is written 400"
-	},
-	{
-		"felin": "shanaim",
-		"english": "hundred",
-		"hint": "100",
-		"pos": "noun",
 		"notes": "Mind the number base: this is written 400"
 	},
 	{
