@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1421261332
-ModificationTime: 1561754471
+ModificationTime: 1561760485
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -112,7 +112,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1038 "" "" "F+AOkA-lk+APYA-v+AOkA-r"
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "be tiuna Muevu luev m+AOYApwAA-i oel. tiuna fena iRol+AMEA-w fela oenwa."
-LangName: 1043 "" "" "Normaal"
+LangName: 1043 "" "" "Vet"
 GaspTable: 1 65535 3 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -120,7 +120,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 18
+WinInfo: 57483 27 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -147,8 +147,6 @@ Encoding: 65537 -1 1
 Width: 0
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
@@ -1025,21 +1023,21 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-314.015650744 453 m 1,0,-1
- 173.169896131 453 l 1,1,-1
- 173.169896131 544 l 1,2,-1
- 314.015650744 544 l 1,3,-1
- 314.015650744 453 l 1,0,-1
+455.185546875 225.5 m 1,0,-1
+ 335.66015625 225.5 l 1,1,-1
+ 233.943047755 348.5 l 1,2,-1
+ 374.859375 348.5 l 1,3,-1
+ 455.185546875 225.5 l 1,0,-1
 151.525390625 225.5 m 1,4,-1
  32 225.5 l 1,5,-1
  112.326171875 348.5 l 1,6,-1
- 233.943047755 348.5 l 1,7,-1
- 253.24249912 348.5 l 1,8,-1
- 374.859375 348.5 l 1,9,-1
- 455.185546875 225.5 l 1,10,-1
- 335.66015625 225.5 l 1,11,-1
- 243.592773438 336.89453125 l 1,12,-1
+ 253.24249912 348.5 l 1,7,-1
  151.525390625 225.5 l 1,4,-1
+314.015650744 453 m 1,8,-1
+ 173.169896131 453 l 1,9,-1
+ 173.169896131 544 l 1,10,-1
+ 314.015650744 544 l 1,11,-1
+ 314.015650744 453 l 1,8,-1
 EndSplineSet
 EndChar
 
