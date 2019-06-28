@@ -47,29 +47,24 @@ E103	FELIN EXCLAMATION MARK
 	x (exclamation mark - 0021)
 E104	FELIN QUESTION MARK
 	x (question mark - 003F)
-E105	FELIN LEFT CORNER BRACKET
-	= opening quotation mark
-	x (left double quotation mark - 201C)
-	x (left corner bracket - 300C)
-E106	FELIN RIGHT CORNER BRACKET
-	= opening quotation mark
-	x (right double quotation mark - 201D)
-	x (right corner bracket - 300D)
-E107	FELIN SEPARATION MARK
-	x (greater-than sign - 003E)
-E108	FELIN MYRIAD MARK
-E109	FELIN LEFT ANGLE BRACKET
+E105	FELIN MYRIAD MARK
+E106	FELIN LEFT ANGLE BRACKET
 	x (left-pointing double angle quotation mark - 00AB)
-E10A	FELIN RIGHT ANGLE BRACKET
+E107	FELIN RIGHT ANGLE BRACKET
 	x (right-pointing double angle quotation mark - 00BB)
-E10B	FELIN PLUS SIGN
+E108	FELIN PLUS SIGN
 	x (plus sign - 002B)
-E10C	FELIN MINUS SIGN
+E109	FELIN MINUS SIGN
 	x (minus sign - 2212)
-E10D	FELIN MULTIPLICATION SIGN
+E10A	FELIN MULTIPLICATION SIGN
 	x (multiplication sign - 00D7)
-E10E	FELIN DIVISION SIGN
+E10B	FELIN DIVISION SIGN
 	x (dision sign - 00F7)
+E10C	FELIN EQUALS SIGN
+	x (equals sign - 003D)
+E10D	FELIN SEPARATION MARK
+	x (greater-than sign - 003E)
+;2E	unassigned
 E10F	FELIN HORIZONTAL ELLIPSIS
 	x (horizontal ellipsis - 2026)
 
