@@ -121,6 +121,7 @@ Oh, right. The poison. The poison for Kuzco, the poison chosen especially to kil
 Okay that does it! Screw you guys, I'm going home! | nakhe! etha tiun fhieil, raiwum prohlite!
 On second thought, let's not go to Camelot. 'Tis a silly place. | chi kamelot nar prohiuhr. miahodebun'en.
 One Fish, Two Fish, Red Fish, Blue Fish. | ewia mrivla, kaie mrivla, nevla mrivla, kulithi mrivla.
+One ring to rule them all, one ring to find them, One ring to bring them all and in the darkness bind them. | ewia markhirn chi etha baena, ewia markhirn chi vim. ewia markhirn chi eth'terma birh deku maeuni.
 One word and I'll hit you again. | ewfolme, em'latrei tiun seulthisena.
 People arise; for the world is dead. | fel fheveil; klamithe kvuthirm oe'e.
 People die when they are killed. | fahri rulkathenitei, fel kvuthni.
