@@ -2588,6 +2588,20 @@
 		"notes": "Mind the number base: this is written 1300"
 	},
 	{
+		"felin": "esre-tihene",
+		"english": "one hundred forty",
+		"hint": "140",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 1030"
+	},
+	{
+		"felin": "esre-tisela",
+		"english": "one hundred thirty",
+		"hint": "130",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 1010"
+	},
+	{
 		"felin": "etemetu",
 		"english": "aimless",
 		"hint": "without purpose",
@@ -10881,6 +10895,34 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "shaewi-ewia",
+		"english": "twenty six",
+		"hint": "26",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 101"
+	},
+	{
+		"felin": "shaewi-hene",
+		"english": "twenty eight",
+		"hint": "28",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 103"
+	},
+	{
+		"felin": "shaewi-kaie",
+		"english": "twenty seven",
+		"hint": "27",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 102"
+	},
+	{
+		"felin": "shaewi-naim",
+		"english": "twenty nine",
+		"hint": "29",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 104"
+	},
+	{
 		"felin": "shaewi-tie-hene-tiksre shana-tika-ewia",
 		"english": "twenty thousand seven hundred thirty-six",
 		"hint": "20,736; 12^4",
@@ -10900,6 +10942,13 @@
 		"hint": "30",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 110"
+	},
+	{
+		"felin": "shaewia",
+		"english": "twenty five",
+		"hint": "25",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 100"
 	},
 	{
 		"felin": "shahene-tihene",
@@ -11032,6 +11081,69 @@
 		"english": "biggest",
 		"hint": "biggest",
 		"pos": "adjective"
+	},
+	{
+		"felin": "shana-ewia",
+		"english": "one hundred one",
+		"hint": "101",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 401"
+	},
+	{
+		"felin": "shana-hene",
+		"english": "one hundred three",
+		"hint": "103",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 403"
+	},
+	{
+		"felin": "shana-kaie",
+		"english": "one hundred two",
+		"hint": "102",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 402"
+	},
+	{
+		"felin": "shana-naim",
+		"english": "one hundred four",
+		"hint": "104",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 404"
+	},
+	{
+		"felin": "shana-tie-ewia",
+		"english": "one hundred six",
+		"hint": "106",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 411"
+	},
+	{
+		"felin": "shana-tie-kaie",
+		"english": "one hundred seven",
+		"hint": "107",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 412"
+	},
+	{
+		"felin": "shana-tie-naim",
+		"english": "one hundred nine",
+		"hint": "109",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 414"
+	},
+	{
+		"felin": "shana-tikaie",
+		"english": "one hundred ten",
+		"hint": "110",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 420"
+	},
+	{
+		"felin": "shana-tinaim",
+		"english": "one hundred twenty",
+		"hint": "120",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 440"
 	},
 	{
 		"felin": "shana-tisela",
@@ -11233,6 +11345,20 @@
 		"felin": "sifvuar",
 		"english": "cruel",
 		"pos": "adjective"
+	},
+	{
+		"felin": "shahene-tisela",
+		"english": "eighty",
+		"hint": "80",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 310"
+	},
+	{
+		"felin": "shana-tie-hene",
+		"english": "one hundred eight",
+		"hint": "108",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 413"
 	},
 	{
 		"felin": "sihio",
@@ -12449,6 +12575,34 @@
 		"english": "ding",
 		"hint": "bell noise",
 		"pos": "noun"
+	},
+	{
+		"felin": "tina-ewia",
+		"english": "twenty one",
+		"hint": "21",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 41"
+	},
+	{
+		"felin": "tina-hene",
+		"english": "twenty three",
+		"hint": "23",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 43"
+	},
+	{
+		"felin": "tina-kaie",
+		"english": "twenty two",
+		"hint": "22",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 42"
+	},
+	{
+		"felin": "tina-naim",
+		"english": "twenty four",
+		"hint": "20",
+		"pos": "numeral",
+		"notes": "Mind the number base: this is written 44"
 	},
 	{
 		"felin": "tinaim",
