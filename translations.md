@@ -22,7 +22,7 @@ Can you see this without reading it? | asurr athele kla'ia vil nar aevashe?
 Catch me if you can! | eun teura'il shia kla'ite!
 Come with me if you want to live. | vil eun prihil shia runfhi rhfial.
 Coming back to where you started is not the same as never leaving. | hemri lureanwa rulvith prihnite usiti lamve aivu nar oen.
-Darmok and Jalad, at Tanagra. Temba, his arms wide. Shaka, when the walls fell. | darmok em'ialad, um tanagra. temba, vil eklithe charhi. shaka, fahri hasel vamnwai.
+Darmok and Jalad, at Tanagra. Temba, his arms wide. Shaka, when the walls fell. | darmok em'ialad, um tanakhra. temba, vil eklithe charhi. shaka, fahri hasel vamnwai.
 Dead or alive, you're coming with me! | kvuthirm nuri runfhirm, vil eun prihite!
 Dear reader, you are reading | biumhu aevashfhra, aevash oe'ite
 Despite the constant negative press covfefe. | dhati abmetaw utem surthe mlivfefe.
