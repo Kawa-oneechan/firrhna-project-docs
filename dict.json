@@ -4883,6 +4883,12 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "isikah",
+		"english": "matter",
+		"hint": "be important",
+		"pos": "verb"
+	},
+	{
 		"felin": "iskultu",
 		"english": "poison",
 		"pos": "verb"
@@ -6055,6 +6061,11 @@
 		"felin": "laave",
 		"english": "bottom",
 		"pos": "noun"
+	},
+	{
+		"felin": "lachi",
+		"english": "care",
+		"pos": "verb"
 	},
 	{
 		"felin": "lachiba",
