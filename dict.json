@@ -8031,9 +8031,21 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "mronhi",
+		"english": "dickhead",
+		"hint": "insult",
+		"pos": "noun"
+	},
+	{
 		"felin": "mronim",
 		"english": "dick pic",
 		"hint": "a nude of your peepee",
+		"pos": "noun"
+	},
+	{
+		"felin": "mrorma",
+		"english": "dick-for-brains",
+		"hint": "insult",
 		"pos": "noun"
 	},
 	{
