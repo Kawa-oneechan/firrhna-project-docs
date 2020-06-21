@@ -3904,6 +3904,11 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "grinai",
+		"english": "toss",
+		"pos": "verb"
+	},
+	{
 		"felin": "grite",
 		"english": "satisfy",
 		"pos": "verb"
@@ -13269,6 +13274,12 @@
 		"felin": "vaetu",
 		"english": "normal",
 		"hint": "the usual",
+		"pos": "noun"
+	},
+	{
+		"felin": "vahkis",
+		"english": "bucket",
+		"hint": "to carry water with",
 		"pos": "noun"
 	},
 	{
