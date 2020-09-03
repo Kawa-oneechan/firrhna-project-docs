@@ -4585,6 +4585,30 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "ilar",
+		"english": "relax",
+		"hint": "",
+		"pos": "verb"
+	},
+	{
+		"felin": "ilaraw",
+		"english": "relaxed",
+		"hint": "",
+		"pos": "adjective"
+	},
+	{
+		"felin": "ilaw",
+		"english": "chill",
+		"hint": "relax",
+		"pos": "adjective"
+	},
+	{
+		"felin": "ilawhura",
+		"english": "third month",
+		"hint": "calendar month",
+		"pos": "noun"
+	},
+	{
 		"felin": "ilerk",
 		"english": "camera",
 		"pos": "noun"
@@ -12125,12 +12149,6 @@
 		"felin": "teshul",
 		"english": "fourth day",
 		"hint": "of the week, weekday",
-		"pos": "noun"
-	},
-	{
-		"felin": "teshura",
-		"english": "third month",
-		"hint": "calendar month",
 		"pos": "noun"
 	},
 	{
