@@ -578,6 +578,12 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "amhul",
+		"english": "second day",
+		"hint": "of the week, weekday",
+		"pos": "noun"
+	},
+	{
 		"felin": "amie",
 		"english": "friend",
 		"hint": "pal",
@@ -5535,7 +5541,7 @@
 	},
 	{
 		"felin": "khla'hul",
-		"english": "sixth day",
+		"english": "seventh day",
 		"hint": "of the week, weekday",
 		"pos": "noun"
 	},
@@ -7011,7 +7017,7 @@
 	},
 	{
 		"felin": "maehul",
-		"english": "seventh day",
+		"english": "sixth day",
 		"hint": "of the week, weekday",
 		"pos": "noun"
 	},
@@ -12146,7 +12152,7 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "teshul",
+		"felin": "thinhul",
 		"english": "fourth day",
 		"hint": "of the week, weekday",
 		"pos": "noun"
@@ -12279,12 +12285,6 @@
 		"english": "therefore",
 		"hint": "for that reason",
 		"pos": "adverb"
-	},
-	{
-		"felin": "thinhul",
-		"english": "second day",
-		"hint": "of the week, weekday",
-		"pos": "noun"
 	},
 	{
 		"felin": "thofli",
