@@ -4518,6 +4518,18 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "iechae'aw",
+		"english": "holy",
+		"hint": "sacred",
+		"pos": "adjective"
+	},
+	{
+		"felin": "iechaporhka",
+		"english": "holy shit!",
+		"hint": "exclamation",
+		"pos": "interjection"
+	},
+	{
 		"felin": "iela",
 		"english": "consider",
 		"hint": "think, regard, find",
@@ -9599,6 +9611,12 @@
 		"hint": "small horse",
 		"pos": "noun",
 		"notes": "Loanword."
+	},
+	{
+		"felin": "porhka",
+		"english": "shit",
+		"hint": "vulgar",
+		"pos": "noun"
 	},
 	{
 		"felin": "postahmp",
