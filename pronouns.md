@@ -1,4 +1,4 @@
-|                        | Sobject | Possess | Reflex |
+|                        | Subject | Possess | Reflex |
 | ---------------------- | ------- | ------- | ------ |
 | First person           | eun     | euna    | eunem  |
 | First person inclusive | iun     | iuna    | iunem  |
