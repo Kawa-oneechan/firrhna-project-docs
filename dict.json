@@ -1922,7 +1922,6 @@
 	{
 		"felin": "dorie",
 		"english": "Dorito",
-		"hint": "",
 		"pos": "noun"
 	},
 	{
@@ -4605,13 +4604,11 @@
 	{
 		"felin": "ilar",
 		"english": "relax",
-		"hint": "",
 		"pos": "verb"
 	},
 	{
 		"felin": "ilaraw",
 		"english": "relaxed",
-		"hint": "",
 		"pos": "adjective"
 	},
 	{
@@ -4778,6 +4775,17 @@
 		"english": "light haired",
 		"hint": "blonde",
 		"pos": "adjective"
+	},
+	{
+		"felin": "imi",
+		"english": "shy",
+		"pos": "adjective"
+	},
+	{
+		"felin": "imisera",
+		"english": "withdraw",
+		"hint": "pull away",
+		"pos": "verb"
 	},
 	{
 		"felin": "imo",
@@ -5560,7 +5568,6 @@
 	{
 		"felin": "khlafheve",
 		"english": "sunrise",
-		"hint": "",
 		"pos": "noun"
 	},
 	{
@@ -5919,6 +5926,12 @@
 		"english": "bird",
 		"hint": "animal",
 		"pos": "noun"
+	},
+	{
+		"felin": "komisera",
+		"english": "outgoing",
+		"hint": "socially receptive",
+		"pos": "verb"
 	},
 	{
 		"felin": "konreb",
@@ -7402,7 +7415,6 @@
 	{
 		"felin": "methai",
 		"english": "silence",
-		"hint": "",
 		"pos": "noun"
 	},
 	{
@@ -8449,7 +8461,6 @@
 	{
 		"felin": "nar karrdi",
 		"english": "you're welcome",
-		"hint": "",
 		"pos": "interjection"
 	},
 	{
