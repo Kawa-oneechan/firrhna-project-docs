@@ -4148,6 +4148,11 @@
 		"notes": "Insulting"
 	},
 	{
+		"felin": "hirkoe",
+		"english": "culture",
+		"pos": "noun"
+	},
+	{
 		"felin": "hiuh",
 		"english": "phew",
 		"hint": "relief",
