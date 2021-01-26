@@ -3071,6 +3071,11 @@
 		"pos": "adposition"
 	},
 	{
+		"felin": "fhearkilitaw",
+		"english": "superliminal",
+		"pos": "adjective"
+	},
+	{
 		"felin": "fheave",
 		"english": "top",
 		"pos": "noun"
@@ -5706,6 +5711,11 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "kilitaw",
+		"english": "liminal",
+		"pos": "adjective"
+	},
+	{
 		"felin": "kin",
 		"english": "sibling",
 		"hint": "generic",
@@ -6126,6 +6136,11 @@
 		"felin": "laave",
 		"english": "bottom",
 		"pos": "noun"
+	},
+	{
+		"felin": "laavkilitaw",
+		"english": "subliminal",
+		"pos": "adjective"
 	},
 	{
 		"felin": "lachi",
