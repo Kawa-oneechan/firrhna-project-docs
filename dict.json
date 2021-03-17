@@ -2524,7 +2524,7 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "eshen-shaewia",
+		"felin": "eshen-sha'erhi",
 		"english": "four hundred",
 		"hint": "400",
 		"pos": "numeral",
@@ -2542,7 +2542,7 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "eska-shakaie",
+		"felin": "eska-shakarhi",
 		"english": "three hundred",
 		"hint": "300",
 		"pos": "numeral",
@@ -2555,14 +2555,14 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "esna-shanaim",
+		"felin": "esna-shanemrhi",
 		"english": "six hundred",
 		"hint": "600",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 4400"
 	},
 	{
-		"felin": "esnaim",
+		"felin": "esnemrhi",
 		"english": "five hundred",
 		"hint": "500",
 		"pos": "numeral",
@@ -2579,28 +2579,28 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "esre-shaewi-tikaie-tiksre",
+		"felin": "erhi-sha'e-tikarhi-tiksre",
 		"english": "one hundred thousand",
 		"hint": "100,000",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 1120,0000"
 	},
 	{
-		"felin": "esre-shahene",
+		"felin": "esre-shahenrhi",
 		"english": "two hundred",
 		"hint": "200",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 1300"
 	},
 	{
-		"felin": "esre-tihene",
+		"felin": "esre-tihenrhi",
 		"english": "one hundred forty",
 		"hint": "140",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 1030"
 	},
 	{
-		"felin": "esre-tisela",
+		"felin": "esre-tisarhi",
 		"english": "one hundred thirty",
 		"hint": "130",
 		"pos": "numeral",
@@ -2704,57 +2704,57 @@
 		"pos": "pronoun"
 	},
 	{
-		"felin": "ewia",
+		"felin": "erhi",
 		"english": "one",
 		"hint": "1",
 		"pos": "numeral"
 	},
 	{
-		"felin": "ewia'aw",
+		"felin": "erhi'aw",
 		"english": "lonely",
 		"pos": "adjective"
 	},
 	{
-		"felin": "ewia-tiksre eshene",
+		"felin": "erhi-tiksre eshenrhi",
 		"english": "one thousand",
 		"hint": "1,000",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 1,3000"
 	},
 	{
-		"felin": "ewia-tiksre eska-shaewia",
+		"felin": "erhi-tiksre eska-sha'erhi",
 		"english": "nine hundred",
 		"hint": "900",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 1,2100"
 	},
 	{
-		"felin": "ewia-tiksre esre-shakaie",
+		"felin": "erhi-tiksre esre-shakarhi",
 		"english": "eight hundred",
 		"hint": "800",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 11,200"
 	},
 	{
-		"felin": "ewia-tiksre shahene",
+		"felin": "erhi-tiksre shahenrhi",
 		"english": "seven hundred",
 		"hint": "700",
 		"pos": "numeral",
-		"notes": "Mind the number base: this is written 10,300"
+		"notes": "Mind the number base: this is written 1,0300"
 	},
 	{
-		"felin": "ewrha",
+		"felin": "erha",
 		"english": "first",
 		"pos": "determiner"
 	},
 	{
-		"felin": "ewrha",
+		"felin": "erha",
 		"english": "first",
 		"hint": "ordinal",
 		"pos": "adjective"
 	},
 	{
-		"felin": "ewrha grewhura",
+		"felin": "erha grewhura",
 		"english": "January",
 		"hint": "month",
 		"pos": "proper noun",
@@ -3150,7 +3150,7 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "fhenem",
+		"felin": "fhenrhim",
 		"english": "lightning",
 		"hint": "weather",
 		"pos": "noun"
@@ -4069,13 +4069,13 @@
 		"pos": "pronoun"
 	},
 	{
-		"felin": "hene",
+		"felin": "henrhi",
 		"english": "three",
 		"hint": "3",
 		"pos": "numeral"
 	},
 	{
-		"felin": "hene-tiksre esresela",
+		"felin": "hen-tiksre esresarhi",
 		"english": "two thousand",
 		"hint": "2,000",
 		"pos": "numeral",
@@ -4503,11 +4503,11 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "iashenchir",
+		"felin": "erhishenchir",
 		"english": "millennium",
 		"hint": "1000 years",
 		"pos": "noun",
-		"notes": "From 'ewia-tiksre eshene chirkul, '13,000 years'."
+		"notes": "From 'erhi-tiksre eshenrhi chirkul, '13,000 years'."
 	},
 	{
 		"felin": "ibe",
@@ -5192,26 +5192,26 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "kaie",
+		"felin": "karhi",
 		"english": "two",
 		"hint": "2",
 		"pos": "numeral"
 	},
 	{
-		"felin": "kaie-tiksre eska-shanaim-tiksre",
+		"felin": "karhi-tiksre eska-shanemrhi-tiksre",
 		"english": "million",
 		"hint": "1,000,000",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 2,2400,0000"
 	},
 	{
-		"felin": "kaielaeke",
+		"felin": "karhlaeke",
 		"english": "colon",
 		"hint": ":",
 		"pos": "noun"
 	},
 	{
-		"felin": "kaihap",
+		"felin": "kar'hap",
 		"english": "pair",
 		"hint": "two things",
 		"pos": "noun"
@@ -5223,7 +5223,7 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "kairha grewhura",
+		"felin": "karha grewhura",
 		"english": "february",
 		"hint": "month",
 		"pos": "proper noun",
@@ -8376,44 +8376,44 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "naim",
+		"felin": "nemrhi",
 		"english": "four",
 		"hint": "4",
 		"pos": "numeral"
 	},
 	{
-		"felin": "naim-tiksre esnaim",
+		"felin": "nem-tiksre esnemrhi",
 		"english": "three thousand",
 		"hint": "3,000",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 44000"
 	},
 	{
-		"felin": "naim-tiksre shaka-tikaie-tik-setiksre",
+		"felin": "nem-tiksre shaka-tikarhi-tik-setiksre",
 		"english": "billion",
 		"hint": "10^9",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 4,0220,0000,0000"
 	},
 	{
-		"felin": "naimhap",
+		"felin": "nemhap",
 		"english": "nibble",
 		"hint": "half a byte, usually four bits",
 		"pos": "noun"
 	},
 	{
-		"felin": "naimklave",
+		"felin": "nemklave",
 		"english": "square",
 		"pos": "noun"
 	},
 	{
-		"felin": "nairha",
+		"felin": "nemrha",
 		"english": "fourth",
 		"hint": "ordinal",
 		"pos": "adjective"
 	},
 	{
-		"felin": "nairha grewhura",
+		"felin": "nemrha grewhura",
 		"english": "april",
 		"hint": "month",
 		"pos": "proper noun",
@@ -8455,13 +8455,13 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "naorthim",
+		"felin": "nemorthim",
 		"english": "quarter",
 		"hint": "¼, fraction",
 		"pos": "noun"
 	},
 	{
-		"felin": "naorthimaw",
+		"felin": "nemorthimaw",
 		"english": "quarter",
 		"hint": "one fourth of",
 		"pos": "adjective"
@@ -10816,18 +10816,18 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "sela",
+		"felin": "sarhi",
 		"english": "zero",
 		"pos": "numeral"
 	},
 	{
-		"felin": "selrha",
+		"felin": "sarha",
 		"english": "zeroth",
 		"hint": "before first",
 		"pos": "adjective"
 	},
 	{
-		"felin": "selrho",
+		"felin": "salrho",
 		"english": "null",
 		"hint": "nothingness, undefined state, null-pointer exception",
 		"pos": "noun"
@@ -11008,84 +11008,84 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "shaewi-ewia",
+		"felin": "sha'e-erhi",
 		"english": "twenty six",
 		"hint": "26",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 101"
 	},
 	{
-		"felin": "shaewi-hene",
+		"felin": "sha'e-henrhi",
 		"english": "twenty eight",
 		"hint": "28",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 103"
 	},
 	{
-		"felin": "shaewi-kaie",
+		"felin": "sha'e-karhi",
 		"english": "twenty seven",
 		"hint": "27",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 102"
 	},
 	{
-		"felin": "shaewi-naim",
+		"felin": "sha'e-nemrhi",
 		"english": "twenty nine",
 		"hint": "29",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 104"
 	},
 	{
-		"felin": "shaewi-tie-hene-tiksre shana-tika-ewia",
+		"felin": "sha'e-tie-hen-tiksre shanem-tika-erhi",
 		"english": "twenty thousand seven hundred thirty-six",
 		"hint": "20,736; 12^4",
 		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1130,421"
+		"notes": "Mind the number base: this is written 113,0421"
 	},
 	{
-		"felin": "shaewi-tihene",
+		"felin": "sha'e-tihenrhi",
 		"english": "forty",
 		"hint": "40",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 130"
 	},
 	{
-		"felin": "shaewi-tisela",
+		"felin": "sha'e-tisarhi",
 		"english": "thirty",
 		"hint": "30",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 110"
 	},
 	{
-		"felin": "shaewia",
+		"felin": "sha'erhi",
 		"english": "twenty five",
 		"hint": "25",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 100"
 	},
 	{
-		"felin": "shahene-tihene",
+		"felin": "shahen-tihenrhi",
 		"english": "ninety",
 		"hint": "90",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 330"
 	},
 	{
-		"felin": "shaka-tikaie",
+		"felin": "shaka-tikarhi",
 		"english": "sixty",
 		"hint": "60",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 220"
 	},
 	{
-		"felin": "shaka-tinaim",
+		"felin": "shaka-tinemrhi",
 		"english": "seventy",
 		"hint": "70",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 240"
 	},
 	{
-		"felin": "shakaie",
+		"felin": "shakarhi",
 		"english": "fifty",
 		"hint": "50",
 		"pos": "numeral",
@@ -11196,91 +11196,91 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "shana-ewia",
+		"felin": "shana-erhi",
 		"english": "one hundred one",
 		"hint": "101",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 401"
 	},
 	{
-		"felin": "shana-hene",
+		"felin": "shana-henrhi",
 		"english": "one hundred three",
 		"hint": "103",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 403"
 	},
 	{
-		"felin": "shana-kaie",
+		"felin": "shana-karhi",
 		"english": "one hundred two",
 		"hint": "102",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 402"
 	},
 	{
-		"felin": "shana-naim",
+		"felin": "shana-nemrhi",
 		"english": "one hundred four",
 		"hint": "104",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 404"
 	},
 	{
-		"felin": "shana-tie-ewia",
+		"felin": "shana-tie-erhi",
 		"english": "one hundred six",
 		"hint": "106",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 411"
 	},
 	{
-		"felin": "shana-tie-kaie",
+		"felin": "shana-tie-karhi",
 		"english": "one hundred seven",
 		"hint": "107",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 412"
 	},
 	{
-		"felin": "shana-tie-naim",
+		"felin": "shana-tie-nemrhi",
 		"english": "one hundred nine",
 		"hint": "109",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 414"
 	},
 	{
-		"felin": "shana-tikaie",
+		"felin": "shana-tikarhi",
 		"english": "one hundred ten",
 		"hint": "110",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 420"
 	},
 	{
-		"felin": "shana-tinaim",
+		"felin": "shana-tinemrhi",
 		"english": "one hundred twenty",
 		"hint": "120",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 440"
 	},
 	{
-		"felin": "shana-tisela",
+		"felin": "shana-tisarhi",
 		"english": "one hundred five",
 		"hint": "105",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 410"
 	},
 	{
-		"felin": "shanaichir",
+		"felin": "shanemchir",
 		"english": "century",
 		"hint": "100 years",
 		"pos": "noun",
-		"notes": "From 'shanaim chirkul', 400 years."
+		"notes": "From 'shanemrhi chirkul', 400 years."
 	},
 	{
-		"felin": "shanaim",
+		"felin": "shanemrhi",
 		"english": "one hundred",
 		"hint": "100",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 400"
 	},
 	{
-		"felin": "shanaim",
+		"felin": "shanemrhi",
 		"english": "hundred",
 		"hint": "number",
 		"pos": "determiner",
@@ -11460,14 +11460,14 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "shahene-tisela",
+		"felin": "shahenrhi-tisarhi",
 		"english": "eighty",
 		"hint": "80",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 310"
 	},
 	{
-		"felin": "shana-tie-hene",
+		"felin": "shana-tie-henrhi",
 		"english": "one hundred eight",
 		"hint": "108",
 		"pos": "numeral",
@@ -12438,7 +12438,7 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tie'ewrha grewhura",
+		"felin": "tie'erha grewhura",
 		"english": "june",
 		"hint": "month",
 		"pos": "proper noun",
@@ -12452,7 +12452,7 @@
 		"notes": "Eighth Gre(gorian) month"
 	},
 	{
-		"felin": "tie'kairha grewhura",
+		"felin": "tie'karha grewhura",
 		"english": "july",
 		"hint": "month",
 		"pos": "proper noun",
@@ -12466,26 +12466,26 @@
 		"notes": "Ninth Gre(gorian) month"
 	},
 	{
-		"felin": "tie-ewia",
+		"felin": "tie-erhi",
 		"english": "six",
 		"hint": "6",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 11"
 	},
 	{
-		"felin": "tie-ewiklave",
+		"felin": "tie-erklave",
 		"english": "hexagon",
 		"pos": "noun"
 	},
 	{
-		"felin": "tie-hene",
+		"felin": "tie-henrhi",
 		"english": "eight",
 		"hint": "8",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 13"
 	},
 	{
-		"felin": "tie-hene-tiksre",
+		"felin": "tie-hen-tiksre",
 		"english": "five thousand",
 		"hint": "5,000",
 		"pos": "numeral",
@@ -12497,19 +12497,19 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tie-kaie",
+		"felin": "tie-karhi",
 		"english": "seven",
 		"hint": "7",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 12"
 	},
 	{
-		"felin": "tie-kaiklave",
+		"felin": "tie-karklave",
 		"english": "heptagon",
 		"pos": "noun"
 	},
 	{
-		"felin": "tie-naim",
+		"felin": "tie-nemrhi",
 		"english": "nine",
 		"hint": "9",
 		"pos": "numeral",
@@ -12534,42 +12534,42 @@
 		"notes": "This refers to the felin subtype, not the Earth animal."
 	},
 	{
-		"felin": "tihen-ewia",
+		"felin": "tihen-erhi",
 		"english": "sixteen",
 		"hint": "16",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 31"
 	},
 	{
-		"felin": "tihen-hene",
+		"felin": "tihen-henrhi",
 		"english": "eighteen",
 		"hint": "18",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 33"
 	},
 	{
-		"felin": "tihen-kaie",
+		"felin": "tihen-karhi",
 		"english": "seventeen",
 		"hint": "17",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 32"
 	},
 	{
-		"felin": "tihen-naim",
+		"felin": "tihen-nemrhi",
 		"english": "nineteen",
 		"hint": "19",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 34"
 	},
 	{
-		"felin": "tihene",
+		"felin": "tihenrhi",
 		"english": "fifteen",
 		"hint": "15",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 30"
 	},
 	{
-		"felin": "tika'ewrha grewhura",
+		"felin": "tika'erha grewhura",
 		"english": "november",
 		"hint": "month",
 		"pos": "proper noun",
@@ -12583,28 +12583,28 @@
 		"notes": "Twelfth Gre(gorian) month"
 	},
 	{
-		"felin": "tika-ewia",
+		"felin": "tika-erhi",
 		"english": "eleven",
 		"hint": "11",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 21"
 	},
 	{
-		"felin": "tika-hene",
+		"felin": "tika-henrhi",
 		"english": "thirteen",
 		"hint": "13",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 23"
 	},
 	{
-		"felin": "tika-kaie",
+		"felin": "tika-karhi",
 		"english": "twelve",
 		"hint": "12",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 22"
 	},
 	{
-		"felin": "tika-naim",
+		"felin": "tika-nemrhi",
 		"english": "fourteen",
 		"hint": "14",
 		"pos": "numeral",
@@ -12615,10 +12615,10 @@
 		"english": "decade",
 		"hint": "period of ten years",
 		"pos": "noun",
-		"notes": "From 'tikaie chirkul', 20 years."
+		"notes": "From 'tikarhi chirkul', 20 years."
 	},
 	{
-		"felin": "tikaie",
+		"felin": "tikarhi",
 		"english": "ten",
 		"hint": "10",
 		"pos": "numeral",
@@ -12678,61 +12678,61 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tina-ewia",
+		"felin": "tina-erhi",
 		"english": "twenty one",
 		"hint": "21",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 41"
 	},
 	{
-		"felin": "tina-hene",
+		"felin": "tina-henrhi",
 		"english": "twenty three",
 		"hint": "23",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 43"
 	},
 	{
-		"felin": "tina-kaie",
+		"felin": "tina-karhi",
 		"english": "twenty two",
 		"hint": "22",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 42"
 	},
 	{
-		"felin": "tina-naim",
+		"felin": "tina-nemrhi",
 		"english": "twenty four",
 		"hint": "20",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 44"
 	},
 	{
-		"felin": "tinaim",
+		"felin": "tinemrhi",
 		"english": "twenty",
 		"hint": "20",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 40"
 	},
 	{
-		"felin": "tinaimrha",
+		"felin": "tinemrhirha",
 		"english": "twentieth",
 		"hint": "ordinal",
 		"pos": "adjective",
 		"notes": "Mind the number base: this is written 40"
 	},
 	{
-		"felin": "tisela",
+		"felin": "tisarhi",
 		"english": "five",
 		"hint": "5",
 		"pos": "numeral",
 		"notes": "Mind the number base: this is written 10"
 	},
 	{
-		"felin": "tiselklave",
+		"felin": "tisarklave",
 		"english": "pentagon",
 		"pos": "noun"
 	},
 	{
-		"felin": "tiselrha grewhura",
+		"felin": "tisarha grewhura",
 		"english": "may",
 		"hint": "month",
 		"pos": "proper noun",

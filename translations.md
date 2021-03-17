@@ -6,7 +6,7 @@
 | All I wanna do is see you turn into a giant woman!           | tiun shaer riulki'ite athellite etha rfhial!                 |
 | All I want for Christmas is you!                             | etha be khrismas rhfial oe'e!                                |
 | An A press is an A press. You can't say it's only a half.    | a'iachakre a'iachakre'en. eka kaorthim'en vole nar kla'e.    |
-| An octopus has eight arms.                                   | oktopus tie-hene charhi birin.                               |
+| An octopus has eight arms.                                   | oktopus tie-henrhi charhi birin.                               |
 | And IIIIIIII will always love youuuuuuuuuuuuuu~              | elbiiiiiitiiiiii tiun shigrisenaaaaaaaaa~                    |
 | And now, for something completely different.                 | emi kra, fidthro mabe limevaw riukhe.                        |
 | And the blood was ankle deep; And the river Skral ran crimson red. And on that day above all days; When Kahless slew the evil Molor dead! | emi thuk naeri'enwa; skral lavla riulkinwa. dam sulmi meihe sulmi; fahri kahlis molor rulkath'nwa! |
@@ -16,7 +16,7 @@
 | Big brother is watching you.                                 | shalkinir eun athnite.                                       |
 | Blessed are the cheesemakers!                                | femomrithfrha hrumeaw oeni!                                  |
 | Blue means stop, bitch!                                      | kulithi iuem ilimn, a'ho!                                    |
-| Both my hands have five fingers.                             | tisela krevie marru euna charesh birini.                     |
+| Both my hands have five fingers.                             | tisarhi krevie marru euna charesh birini.                     |
 | By your powers combined, I am Captain Planet!                | vil tiuna griuhei niadienwai, klamithe suirel oen!           |
 | Can you see this without reading it?                         | asurr athele kla'ia vil nar aevashe?                         |
 | Catch me if you can!                                         | eun teura'il shia kla'ite!                                   |
@@ -36,7 +36,7 @@
 | Don't kill me!                                               | nar rulkatheil!                                              |
 | Eat my shorts!                                               | tulsif mlitheil!                                             |
 | Everything is better with colors.                            | ethariukh vil lamvehi mriwa oen.                             |
-| Five exclamation marks, the sure sign of an insane mind.     | tisela shalwaveud, ermi wra iaralri utlukhdi rurma.          |
+| Five exclamation marks, the sure sign of an insane mind.     | tisarhi shalwaveud, ermi wra iaralri utlukhdi rurma.          |
 | Friends are like cows - if you eat them, they die.           | pliamie plua mureh oeni. shia oun mlithel, kvutheseni.       |
 | Gotta catch 'em all                                          | etha oun sihrae teura'e                                      |
 | Happy new year!                                              | pruimi pralchir!                                             |
@@ -77,7 +77,7 @@
 | I went to her.                                               | chi oun prohlw.                                              |
 | I will make a new home.                                      | pralchi raiwum plarithsena.                                  |
 | I'd like to be a tree.                                       | fulriut oelite mlagril.                                      |
-| I'll have a number nine, a number nine large, a number six with extra sauce, a number seven, two number forty-fives, one with cheese, and a large soda. | vue tie-naim, shalrae tie-naim, vue tie-ewia vil ori padvu, vue tie-kaie, shaewi-tinaim shira kae, ewia vil fenom, emi shalrae shintanik barisena. |
+| I'll have a number nine, a number nine large, a number six with extra sauce, a number seven, two number forty-fives, one with cheese, and a large soda. | vue tie-nemrhi, shalrae tie-nemrhi, vue tie-erhi vil ori padvu, vue tie-karhi, sha'e-tinemrhi shira kae, erhi vil fenom, emi shalrae shintanik barisena. |
 | I'll leave tomorrow's problems to tomorrow's me.             | karrdi wra kasulmi be eun wra kasulmi oen.                   |
 | I'll take a potato chip... and eat it!                       | potasuumi borosena... e'mlithesen!                           |
 | I'm Bobbin. Are you my mother?                               | bobbin'el. euna fena oeia?                                   |
@@ -111,8 +111,8 @@
 | No gods, no masters!                                         | serh chaerrnah, serh morrol!                                 |
 | No! I don't want that!                                       | mreh! hiurh nar rhfial!                                      |
 | No, I'm from Iowa. I only work in outer space.               | mreh, rish iowa'l. birh surhi eka palrul.                    |
-| No, I'm not lonely, I have me.                               | mreh, ewia'aw nar'el. eun baril.                             |
-| Now the whole Earth had one language and the same words.     | kra, etha dam klamithe ewia afol emi aivu folme barinwai.    |
+| No, I'm not lonely, I have me.                               | mreh, erhi'aw nar'el. eun baril.                             |
+| Now the whole Earth had one language and the same words.     | kra, etha dam klamithe erhi afol emi aivu folme barinwai.    |
 | Of course I'm sane, when trees start talking to me, I don't talk back. | iaralri lukhdi'el! fahri fulriut chi eun aevohnitei, nar rulvith aevohl. |
 | Of course it’s a noun... It does nouny things.               | iaralri oun oefol'en... oefolaw riukhe irhenite.             |
 | Oh my gosh, look at that fluffy unicorn! He's so fluffy, I'm gonna die! | ais wra mio, hiurh ilturaw kuvukhuin athil! liuv ilturaw oen, kvuthsena! |
@@ -120,8 +120,8 @@
 | Oh, right. The poison. The poison for Kuzco, the poison chosen especially to kill Kuzco, Kuzco's poison. That poison? | arhi, iskultu. iskultu be kuskho. kuskho chi rulkathe limsilwi. iskultu wra kuskho. hiurh iskultu? |
 | Okay that does it! Screw you guys, I'm going home!           | nakhe! etha tiun fhieil, raiwum prohlite!                    |
 | On second thought, let's not go to Camelot. 'Tis a silly place. | chi kamelot nar prohiuhr. miahodebun'en.                     |
-| One Fish, Two Fish, Red Fish, Blue Fish.                     | ewia mrivla, kaie mrivla, nevla mrivla, kulithi mrivla.      |
-| One ring to rule them all, one ring to find them, One ring to bring them all and in the darkness bind them. | ewia markhirn chi etha baena, ewia markhirn chi vim. ewia markhirn chi eth'terma birh deku maeuni. |
+| One Fish, Two Fish, Red Fish, Blue Fish.                     | erhi mrivla, karhi mrivla, nevla mrivla, kulithi mrivla.      |
+| One ring to rule them all, one ring to find them, One ring to bring them all and in the darkness bind them. | erhi markhirn chi etha baena, erhi markhirn chi vim. erhi markhirn chi eth'terma birh deku maeuni. |
 | One word and I'll hit you again.                             | ewfolme, em'latrei tiun seulthisena.                         |
 | People arise; for the world is dead.                         | fel fheveil; klamithe kvuthirm oe'e.                         |
 | People die when they are killed.                             | fahri rulkathenitei, fel kvuthni.                            |
@@ -143,7 +143,7 @@
 | The universe is made of stories, not atoms.                  | ethasurhi rish ermi plarithnwa, nar legro.                   |
 | The world is fucked.                                         | klamithe fhieaw oen.                                         |
 | The world is strange.                                        | klamithe amtha oen.                                          |
-| There are four lights!                                       | naim fhenah oeni!                                            |
+| There are four lights!                                       | nemrhi fhenah oeni!                                            |
 | They’re not women’s clothes. They’re my clothes. I bought them. | oruit wra fela nar oeni. euna oruit 'eni. eun omkitlw.       |
 | Thinking is the best way to travel.                          | elifahelite mriwi leithroa chi vliromi oen.                  |
 | This guy's got shoes!                                        | asurr felir rihae barin!                                     |
@@ -151,7 +151,7 @@
 | Too long, didn't read.                                       | imo silhra, nar aevashlw.                                    |
 | Toto, I've a feeling we're not in Kansas anymore.            | toto, nar ovori birh kansas oeli elifahel.                   |
 | Touch your monitor. It is warm, like flesh. But it is not flesh. Not yet. | tiuna luchote rwathil. uthra oen, plua elanpe. dhi elanpe nar'en. nar kra. |
-| Trying to understand women is like trying to smell the colour nine. | fela liumti skromnite plua ithud tie-naim ukhteri skromnite oen. |
+| Trying to understand women is like trying to smell the colour nine. | fela liumti skromnite plua ithud tie-nemrhi ukhteri skromnite oen. |
 | Walking's good, fighting's better, fucking's best.           | vlira mriw'en, rhagrim mriwa'en, fhie mriwi'en.              |
 | War. War never changes.                                      | graruh. graruh usiti melein                                  |
 | We all live in a yellow submarine.                           | birh fhevla lumafma runfhili.                                |
@@ -171,7 +171,7 @@
 | What is the music of life?                                   | i'eia wra mithi oeia?                                        |
 | What is your name?                                           | tiuna itusu muhi oen?                                        |
 | What the fuck did I do?                                      | muhi sahrhelwia?                                             |
-| When 900 years old, you reach, look as good, you will not.   | fahri ewiatiksre eskashaewia chir umthre riulki'e, nar hrivei'esew. |
+| When 900 years old, you reach, look as good, you will not.   | fahri erhitiksre eskasha'erhi chir umthre riulki'e, nar hrivei'esew. |
 | When can I be naked, mum?                                    | fena, fahri eun mevebilia?                                   |
 | Who ya gonna call? Ghostbusters!                             | fehre mesulesewia? falaikrafhra!                             |
 | Why don't we have both?                                      | mahri marru nar biri'ia?                                     |
@@ -180,7 +180,7 @@
 | Yesterday I went shopping and I bought myself a new t-shirt. | mursulmi chirmalite prihlw emi pralchi erlit omithlw.        |
 | You are already dead.                                        | tiun rathisa kvuthirm oe'e.                                  |
 | You are tearing me apart, Lisa!                              | eun aigrithite, lisa!                                        |
-| You better cut the pizza in four pieces because I'm not hungry enough to eat six. | pilthar mriwa naim orthime, bhalti tie-ewia dirh nar mlithesena. |
+| You better cut the pizza in four pieces because I'm not hungry enough to eat six. | pilthar mriwa nemrhi orthime, bhalti tie-erhi dirh nar mlithesena. |
 | You could make a religion out of this.                       | tiun rish asurr tovpumlae plarithrhuw.                       |
 | You have mail!                                               | kalemi biri'e!                                               |
 | You know nothing, Jon Snow.                                  | vlathro tleie, ion snow.                                     |

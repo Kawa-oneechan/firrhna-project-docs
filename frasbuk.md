@@ -116,16 +116,16 @@
 | Leave me alone!   | lamve!               |
 
 ### Ordering
-| English                    | Felinese             |
-| -------------------------- | -------------------- |
-| Would you like some wine?  | putfhilite rhfia'ia  |
-| Just a little, please.     | ukel, mriev.         |
-| Yes, I'll take the bottle. | rhi, uimbel borol.   |
-| Can I get you anything?    |                      |
-| Can I help you?            | hruine klasenaia?    |
-| Do you want this?          | asurr rfhialia?      |
-| Do you need this?          | asurr sihraeia?      |
-| I need four, please.       | niam sihrael, mriev. |
+| English                    | Felinese               |
+| -------------------------- | ---------------------- |
+| Would you like some wine?  | putfhilite rhfia'ia    |
+| Just a little, please.     | ukel, mriev.           |
+| Yes, I'll take the bottle. | rhi, uimbel borol.     |
+| Can I get you anything?    |                        |
+| Can I help you?            | hruine klasenaia?      |
+| Do you want this?          | asurr rfhialia?        |
+| Do you need this?          | asurr sihraeia?        |
+| I need four, please.       | nemrhi sihrael, mriev. |
 
 ### Answers
 | English       | Felinese      |
