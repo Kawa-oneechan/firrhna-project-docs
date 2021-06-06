@@ -263,6 +263,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "airhit",
+		"english": "show",
+		"hint": "present",
+		"pos": "verb"
+	},
+	{
 		"felin": "aigrith",
 		"english": "destroy",
 		"pos": "verb"
@@ -3531,6 +3537,11 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "filni",
+		"english": "hide",
+		"pos": "verb"
+	},
+	{
 		"felin": "fimgraifel",
 		"english": "Floran",
 		"hint": "Starbound game species, carnivorous plant person",
@@ -4109,6 +4120,11 @@
 		"felin": "hepna",
 		"english": "catnip",
 		"hint": "plant",
+		"pos": "noun"
+	},
+	{
+		"felin": "hiathan",
+		"english": "memory",
 		"pos": "noun"
 	},
 	{
@@ -6045,6 +6061,11 @@
 		"felin": "kufhe",
 		"english": "cultural",
 		"pos": "adjective"
+	},
+	{
+		"felin": "kuh",
+		"english": "mess",
+		"pos": "noun"
 	},
 	{
 		"felin": "kulithi",
