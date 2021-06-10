@@ -3825,7 +3825,7 @@
 	},
 	{
 		"felin": "grahvalkan",
-		"english": "Romulan"
+		"english": "Romulan",
 		"hint": "Star Trek species",
 		"pos": "noun"
 	},
@@ -5983,7 +5983,7 @@
 	},
 	{
 		"felin": "korn",
-		"english": "Gorn"
+		"english": "Gorn",
 		"hint": "Star Trek species",
 		"pos": "noun"
 	},
@@ -11166,7 +11166,7 @@
 	},
 	{
 		"felin": "shalhraka",
-		"english": "Cardassian"
+		"english": "Cardassian",
 		"hint": "Star Trek species",
 		"pos": "noun"
 	},
@@ -12382,7 +12382,7 @@
 	},
 	{
 		"felin": "thlin'on",
-		"english": "Klingon"
+		"english": "Klingon",
 		"hint": "Star Trek species",
 		"pos": "noun"
 	},
@@ -12416,7 +12416,7 @@
 	},
 	{
 		"felin": "t'hril",
-		"english": "Trill"
+		"english": "Trill",
 		"hint": "Star Trek species",
 		"pos": "noun"
 	},
