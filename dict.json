@@ -2780,6 +2780,12 @@
 		"notes": "EDIT ME...? 'If something, this should be,' as in the sample."
 	},
 	{
+		"felin": "fahrenki",
+		"english": "Ferengi"
+		"hint": "Star Trek species",
+		"pos": "noun"
+	},
+	{
 		"felin": "fahri",
 		"english": "when",
 		"hint": "interrogative",
@@ -3816,6 +3822,12 @@
 		"felin": "grahsaw",
 		"english": "angry",
 		"pos": "adjective"
+	},
+	{
+		"felin": "grahvalkan",
+		"english": "Romulan"
+		"hint": "Star Trek species",
+		"pos": "noun"
 	},
 	{
 		"felin": "graikhaw",
@@ -5621,12 +5633,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "khlin'onfol",
-		"english": "klingon",
-		"hint": "language",
-		"pos": "noun"
-	},
-	{
 		"felin": "khrime",
 		"english": "scream",
 		"pos": "noun"
@@ -5974,6 +5980,12 @@
 		"english": "ConWorkShop",
 		"hint": "best website",
 		"pos": "proper noun"
+	},
+	{
+		"felin": "korn",
+		"english": "Gorn"
+		"hint": "Star Trek species",
+		"pos": "noun"
 	},
 	{
 		"felin": "kosafol",
@@ -11153,6 +11165,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "shalhraka",
+		"english": "Cardassian"
+		"hint": "Star Trek species",
+		"pos": "noun"
+	},
+	{
 		"felin": "shalkloirkhi",
 		"english": "cauldron",
 		"hint": "enormous pot",
@@ -12228,12 +12246,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "thinhul",
-		"english": "fourth day",
-		"hint": "of the week, weekday",
-		"pos": "noun"
-	},
-	{
 		"felin": "teslunt",
 		"english": "bore",
 		"hint": "make bored",
@@ -12363,6 +12375,24 @@
 		"pos": "adverb"
 	},
 	{
+		"felin": "thinhul",
+		"english": "fourth day",
+		"hint": "of the week, weekday",
+		"pos": "noun"
+	},
+	{
+		"felin": "thlin'on",
+		"english": "Klingon"
+		"hint": "Star Trek species",
+		"pos": "noun"
+	},
+	{
+		"felin": "thlin'onfol",
+		"english": "klingonese",
+		"hint": "language",
+		"pos": "noun"
+	},
+	{
 		"felin": "thofli",
 		"english": "forest",
 		"hint": "woods park",
@@ -12383,6 +12413,12 @@
 		"felin": "thoreiaw",
 		"english": "earthy",
 		"pos": "adjective"
+	},
+	{
+		"felin": "t'hril",
+		"english": "Trill"
+		"hint": "Star Trek species",
+		"pos": "noun"
 	},
 	{
 		"felin": "thuir",
@@ -13374,6 +13410,12 @@
 		"felin": "vahkis",
 		"english": "bucket",
 		"hint": "to carry water with",
+		"pos": "noun"
+	},
+	{
+		"felin": "valkan",
+		"english": "Vulcan",
+		"hint": "Star Trek species",
 		"pos": "noun"
 	},
 	{
