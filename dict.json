@@ -123,6 +123,11 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "aelta",
+		"english": "immediately",
+		"pos": "adverb"
+	},
+	{
 		"felin": "aesh",
 		"english": "go beyond",
 		"pos": "verb"
@@ -2488,6 +2493,16 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "eret",
+		"english": "warning",
+		"pos": "noun"
+	},
+	{
+		"felin": "ereti",
+		"english": "warn",
+		"pos": "verb"
+	},
+	{
 		"felin": "eri",
 		"english": "far",
 		"hint": "distance",
@@ -3320,6 +3335,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "fhrisklave",
+		"english": "coast",
+		"hint": "shore",
+		"pos": "noun"
+	},
+	{
 		"felin": "fhrisprelith",
 		"english": "bathtub",
 		"pos": "noun"
@@ -3603,6 +3624,16 @@
 		"felin": "firrhna",
 		"english": "name of a planet",
 		"pos": "proper noun"
+	},
+	{
+		"felin": "fithiltha",
+		"english": "shelter",
+		"pos": "noun"
+	},
+	{
+		"felin": "fithin",
+		"english": "safe",
+		"pos": "adjective"
 	},
 	{
 		"felin": "fliavhem",
@@ -4529,6 +4560,12 @@
 		"english": "have",
 		"hint": "inalienable",
 		"pos": "verb"
+	},
+	{
+		"felin": "iklar",
+		"english": "channel",
+		"hint": "TV",
+		"pos": "noun"
 	},
 	{
 		"felin": "erhishenchir",
@@ -10680,6 +10717,16 @@
 		"felin": "rurma",
 		"english": "mind",
 		"pos": "noun"
+	},
+	{
+		"felin": "rurthau",
+		"english": "emergency",
+		"pos": "noun"
+	},
+	{
+		"felin": "rurthaproh",
+		"english": "evacuate",
+		"pos": "verb"
 	},
 	{
 		"felin": "ruthra",
