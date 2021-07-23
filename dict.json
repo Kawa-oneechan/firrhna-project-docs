@@ -105,6 +105,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "adora",
+		"english": "gladiolus",
+		"hint": "purple trumpet-like flower",
+		"pos": "noun"
+	},
+	{
 		"felin": "adwa",
 		"english": "order",
 		"hint": "organize",
@@ -5438,6 +5444,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "katra",
+		"english": "rose",
+		"hint": "flower",
+		"pos": "noun"
+	},
+	{
 		"felin": "keiat",
 		"english": "k",
 		"hint": "letter",
@@ -7226,6 +7238,12 @@
 		"felin": "manaelim",
 		"english": "selenium",
 		"hint": "element",
+		"pos": "noun"
+	},
+	{
+		"felin": "mara",
+		"english": "lotus",
+		"hint": "flower",
 		"pos": "noun"
 	},
 	{
