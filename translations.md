@@ -1,28 +1,28 @@
 | English                                                      | Felinese                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | A boy's best friend is his mother.                           | mriwi amie wra kitr ouna fena oen.                           |
-| A gingerbread man sits inside a gingerbread house. Is the house made of flesh? Or is he made of house? He screams for he does not know. | livsuemla fel birh livsuemla usiltha iben. usiltha vil elanpe plarithnwa oeia? nuri oun vil usiltha plarithnwa oeia? khrimenite, balthi nar tlein. |
+| A gingerbread man sits inside a gingerbread house.<br />Is the house made of flesh?<br />Or is he made of house?<br />He screams for he does not know. | livsuemla fel birh livsuemla usiltha iben.<br />usiltha vil elanpe plarithnwa oeia?<br />nuri oun vil usiltha plarithnwa oeia?<br />khrimenite, balthi nar tlein. |
 | A magician, like a prostitute, never reveals her tricks.     | foinae, plua huprhae, ouna duiko usiti hotisunite.           |
 | All I wanna do is see you turn into a giant woman!           | tiun shaer riulki'ite athellite etha rfhial!                 |
 | All I want for Christmas is you!                             | etha be khrismas rhfial oe'e!                                |
 | An A press is an A press. You can't say it's only a half.    | a'iachakre a'iachakre'en. eka kaorthim'en vole nar kla'e.    |
-| An octopus has eight arms.                                   | oktopus tie-henrhi charhi birin.                               |
+| An octopus has eight arms.                                   | oktopus tie-henrhi charhi birin.                             |
 | And IIIIIIII will always love youuuuuuuuuuuuuu~              | elbiiiiiitiiiiii tiun shigrisenaaaaaaaaa~                    |
 | And now, for something completely different.                 | emi kra, fidthro mabe limevaw riukhe.                        |
-| And the blood was ankle deep; And the river Skral ran crimson red. And on that day above all days; When Kahless slew the evil Molor dead! | emi thuk naeri'enwa; skral lavla riulkinwa. dam sulmi meihe sulmi; fahri kahlis molor rulkath'nwa! |
+| And the blood was ankle deep;<br />And the river Skral ran crimson red.<br />On that day above all days;<br />When Kahless slew the evil Molor dead! | emi thuk naeri'enwa;<br />skral lavla riulkinwa.<br />dam sulmi meihe sulmi;<br />fahri kahlis molor rulkath'nwa! |
 | Any time of the day is a good time for pie.                  | ofhofhiti mriwfhiti be ilthar oen.                           |
 | Are you a boy? Or are you a girl?                            | tiun slifel oeeia? nuri slifela oeeia?                       |
 | Are you the prey? No, we are the hunters!                    | igrus oe'eia? mreh, rhwafhra oeli!                           |
 | Big brother is watching you.                                 | shalkinir eun athnite.                                       |
 | Blessed are the cheesemakers!                                | femomrithfrha hrumeaw oeni!                                  |
 | Blue means stop, bitch!                                      | kulithi iuem ilimn, a'ho!                                    |
-| Both my hands have five fingers.                             | tisarhi krevie marru euna charesh birini.                     |
+| Both my hands have five fingers.                             | tisarhi krevie marru euna charesh birini.                    |
 | By your powers combined, I am Captain Planet!                | vil tiuna griuhei niadienwai, klamithe suirel oen!           |
 | Can you see this without reading it?                         | asurr athele kla'ia vil nar aevashe?                         |
 | Catch me if you can!                                         | eun teura'il shia kla'ite!                                   |
 | Come with me if you want to live.                            | vil eun prihil shia runfhi rhfial.                           |
 | Coming back to where you started is not the same as never leaving. | hemri lureanwa rulvith prihnite usiti lamve aivu nar oen.    |
-| Darmok and Jalad, at Tanagra. Temba, his arms wide. Shaka, when the walls fell. | darmok em'ialad, um tanagra. temba, vil eklithe charhi. shaka, fahri hasel vamnwai. |
+| Darmok and Jalad, at Tanagra.<br />Temba, his arms wide.<br />Shaka, when the walls fell. | darmok em'ialad, um tanagra.<br />temba, vil eklithe charhi.<br />shaka, fahri hasel vamnwai. |
 | Dead or alive, you're coming with me!                        | kvuthirm nuri runfhirm, vil eun prihite!                     |
 | Dear reader, you are reading                                 | biumhu aevashfhra, aevash oe'ite                             |
 | Despite the constant negative press covfefe.                 | dhati abmetaw utem surthe mlivfefe.                          |
@@ -36,10 +36,11 @@
 | Don't kill me!                                               | nar rulkatheil!                                              |
 | Eat my shorts!                                               | tulsif mlitheil!                                             |
 | Everything is better with colors.                            | ethariukh vil lamvehi mriwa oen.                             |
-| Five exclamation marks, the sure sign of an insane mind.     | tisarhi shalwaveud, ermi wra iaralri utlukhdi rurma.          |
+| Five exclamation marks, the sure sign of an insane mind.     | tisarhi shalwaveud, ermi wra iaralri utlukhdi rurma.         |
 | Friends are like cows - if you eat them, they die.           | pliamie plua mureh oeni. shia oun mlithel, kvutheseni.       |
 | Gotta catch 'em all                                          | etha oun sihrae teura'e                                      |
 | Happy new year!                                              | pruimi pralchir!                                             |
+| Hello. My name is Inigo Montoya. You killed my father. Prepare to die. | mihli. eun'itusu iniko montoia'en. euna fenir rulkathe'ew. be kvuthi sudva'il. |
 | Here lies the guardian, keeper of dragonstone and a **force** of unending rage and darkness | uwis vrhasthes rahwan, riushfhra wra drarhathu emi **griuve** wra rograhs emi deku nar vil alem |
 | Heroes never die!                                            | lehfel'siti kvuth!                                           |
 | Hey, don't knock masturbation. It's sex with someone I love. | oi, ruimi charefhie nar grilh'aevoh'ia. lufhie vil fel shigril oe'e. |
@@ -94,7 +95,7 @@
 | In the kingdom of Jah, no man is weak.                       | birh iah likosi, serliv litram oen.                          |
 | It is a good day to die.                                     | ekhsumi mriwhul chi kvuth oen.                               |
 | It is natural to die.                                        | kvuthi rihulaaw oen.                                         |
-| It's a beautiful day outside. Birds are singing, flowers are blooming. On days like these, kids like you... should burn in hell. | risb hrivei sulmi oen. kluvie mevusnitei, puim puimnitei. sulmi plua asurr, kit plua tiun... fahra birh orsmithe ruthrani. |
+| It's a beautiful day outside. Birds are singing, flowers are blooming. On days like these, kids like you... should burn in hell. | risb hrivei sulmi'en. kluvie mevusnitei, puim puimnitei. sulmi plua asurr, kit plua tiun... fahra birh orsmithe ruthrani. |
 | It's funny how dumb you are!                                 | tiuna latka'ho parrii'aw'en!                                 |
 | It's not murder, it's ketchup.                               | rulkathe nar oen, ketcha.                                    |
 | It's open now; I used Asian powers.                          | eklithe'en. aeshiaw itonhei osulw.                           |
@@ -107,7 +108,6 @@
 | My cat is wearing your trousers.                             | tiuna tulsif euna khat oritun.                               |
 | My fingers are long and beautiful, as, it has been well documented, are various other parts of my body. | euna rhevie silhra'mi hriveini, plua, surthe oenwa, uidiuve ake urthlim wra euna foit. |
 | My mouth hurts.                                              | euna buai rhuran.                                            |
-| My name is Inigo Montoya. You killed my father. Prepare to die. | mihli. eun'itusu iniko montoia'en. euna fenir rulkathe'ew. be kvuthi sudva'il. |
 | No gods, no masters!                                         | serh chaerrnah, serh morrol!                                 |
 | No! I don't want that!                                       | mreh! hiurh nar rhfial!                                      |
 | No, I'm from Iowa. I only work in outer space.               | mreh, rish iowa'l. birh surhi eka palrul.                    |
@@ -120,7 +120,7 @@
 | Oh, right. The poison. The poison for Kuzco, the poison chosen especially to kill Kuzco, Kuzco's poison. That poison? | arhi, iskultu. iskultu be kuskho. kuskho chi rulkathe limsilwi. iskultu wra kuskho. hiurh iskultu? |
 | Okay that does it! Screw you guys, I'm going home!           | nakhe! etha tiun fhieil, raiwum prohlite!                    |
 | On second thought, let's not go to Camelot. 'Tis a silly place. | chi kamelot nar prohiuhr. miahodebun'en.                     |
-| One Fish, Two Fish, Red Fish, Blue Fish.                     | erhi mrivla, karhi mrivla, nevla mrivla, kulithi mrivla.      |
+| One Fish, Two Fish, Red Fish, Blue Fish.                     | erhi mrivla, karhi mrivla, nevla mrivla, kulithi mrivla.     |
 | One ring to rule them all, one ring to find them, One ring to bring them all and in the darkness bind them. | erhi markhirn chi etha baena, erhi markhirn chi vim. erhi markhirn chi eth'terma birh deku maeuni. |
 | One word and I'll hit you again.                             | ewfolme, em'latrei tiun seulthisena.                         |
 | People arise; for the world is dead.                         | fel fheveil; klamithe kvuthirm oe'e.                         |
@@ -143,7 +143,7 @@
 | The universe is made of stories, not atoms.                  | ethasurhi rish ermi plarithnwa, nar legro.                   |
 | The world is fucked.                                         | klamithe fhieaw oen.                                         |
 | The world is strange.                                        | klamithe amtha oen.                                          |
-| There are four lights!                                       | nemrhi fhenah oeni!                                            |
+| There are four lights!                                       | nemrhi fhenah oeni!                                          |
 | They’re not women’s clothes. They’re my clothes. I bought them. | oruit wra fela nar oeni. euna oruit 'eni. eun omkitlw.       |
 | Thinking is the best way to travel.                          | elifahelite mriwi leithroa chi vliromi oen.                  |
 | This guy's got shoes!                                        | asurr felir rihae barin!                                     |
