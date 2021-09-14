@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1421261332
-ModificationTime: 1631387414
+ModificationTime: 1631622382
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -120,7 +120,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57584 16 10
+WinInfo: 0 16 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1516,22 +1516,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 345 m 1,0,-1
- 0 612 l 1,1,-1
- 67 672 l 1,2,-1
- 67 570 l 1,3,-1
- 321 570 l 1,4,5
- 373 557 373 557 393 505 c 1,6,-1
- 393 345 l 1,7,-1
- 329 345 l 1,8,-1
- 329 517 l 1,9,-1
- 63 517 l 1,10,-1
- 63 416 l 1,11,-1
- 239 416 l 1,12,-1
- 239 345 l 1,13,-1
- 0 345 l 1,0,-1
+151 96 m 1,0,1
+ 134 22 l 1,2,3
+ 0 22 0 22 0 170 c 2,4,-1
+ 0 660 l 1,5,-1
+ 65 660 l 1,6,-1
+ 65 570 l 1,7,-1
+ 321 570 l 1,8,9
+ 373 557 373 557 393 505 c 1,10,-1
+ 393 345 l 1,11,-1
+ 329 345 l 1,12,-1
+ 329 517 l 1,13,-1
+ 65 517 l 1,14,-1
+ 65 416 l 1,15,-1
+ 239 416 l 1,16,-1
+ 239 345 l 1,17,-1
+ 65 345 l 1,18,-1
+ 65 173 l 1,19,20
+ 65 96 65 96 151 96 c 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: g
@@ -1541,7 +1544,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: j
@@ -1551,7 +1554,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: q
@@ -1561,7 +1564,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: x
@@ -1571,7 +1574,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: y
@@ -1581,7 +1584,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: z
@@ -1591,7 +1594,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: A
@@ -1601,21 +1604,26 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-131 488 m 1,0,-1
- 28 488 l 1,1,-1
- 28 534 l 1,2,-1
- 343 534 l 1,3,-1
- 343 488 l 1,4,-1
- 196 488 l 1,5,-1
- 150 404 l 1,6,-1
- 394 404 l 1,7,-1
- 394 334 l 1,8,-1
- 0 334 l 1,9,-1
- 0 404 l 1,10,-1
- 78 404 l 1,11,-1
- 131 488 l 1,0,-1
+65 334 m 1,0,-1
+ 65 173 l 1,1,2
+ 65 96 65 96 151 96 c 1,3,-1
+ 134 22 l 1,4,5
+ 0 22 0 22 0 170 c 2,6,-1
+ 0 660 l 1,7,-1
+ 65 660 l 1,8,-1
+ 65 404 l 1,9,-1
+ 134 404 l 1,10,-1
+ 187 488 l 1,11,-1
+ 97 488 l 1,12,-1
+ 97 534 l 1,13,-1
+ 343 534 l 1,14,-1
+ 343 488 l 1,15,-1
+ 252 488 l 1,16,-1
+ 206 404 l 1,17,-1
+ 394 404 l 1,18,-1
+ 394 334 l 1,19,-1
+ 65 334 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: B
@@ -1625,22 +1633,27 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-394 404 m 1,0,-1
- 394 334 l 1,1,-1
- 0 334 l 1,2,-1
- 0 404 l 1,3,-1
- 174 404 l 1,4,-1
- 66 522 l 1,5,-1
- 66 563 l 1,6,-1
- 107 563 l 1,7,-1
- 231 441 l 1,8,-1
- 309 528 l 1,9,-1
- 347 528 l 1,10,-1
- 347 492 l 1,11,-1
- 258 404 l 1,12,-1
- 394 404 l 1,0,-1
+65 660 m 1,0,-1
+ 65 404 l 1,1,-1
+ 189 404 l 1,2,-1
+ 106 498 l 1,3,-1
+ 106 539 l 1,4,-1
+ 147 539 l 1,5,-1
+ 246 441 l 1,6,-1
+ 324 528 l 1,7,-1
+ 362 528 l 1,8,-1
+ 362 492 l 1,9,-1
+ 273 404 l 1,10,-1
+ 394 404 l 1,11,-1
+ 394 334 l 1,12,-1
+ 65 334 l 1,13,-1
+ 65 173 l 1,14,15
+ 65 96 65 96 151 96 c 1,16,-1
+ 134 22 l 1,17,18
+ 0 22 0 22 0 170 c 2,19,-1
+ 0 660 l 1,20,-1
+ 65 660 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: D
@@ -1650,17 +1663,26 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-394 334 m 1,0,-1
- 0 334 l 1,1,-1
- 0 404 l 1,2,-1
- 235 405 l 1,3,-1
- 179 506 l 1,4,-1
- 260 506 l 1,5,-1
- 324 404 l 1,6,-1
- 394 404 l 1,7,-1
- 394 334 l 1,0,-1
+65 113 m 1,0,-1
+ 244 113 l 1,1,-1
+ 276 51 l 1,2,-1
+ 0 51 l 1,3,-1
+ 0 539 l 2,4,5
+ 0 689 0 689 134 689 c 1,6,7
+ 346 689 l 1,8,-1
+ 376 617 l 1,9,-1
+ 151 617 l 1,10,11
+ 65 617 65 617 65 538 c 1,12,-1
+ 65 405 l 1,13,-1
+ 235 405 l 1,14,-1
+ 179 506 l 1,15,-1
+ 260 506 l 1,16,-1
+ 324 404 l 1,17,-1
+ 394 404 l 1,18,-1
+ 394 334 l 1,19,-1
+ 65 334 l 1,20,-1
+ 65 113 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: E
@@ -1670,21 +1692,30 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-131 488 m 1,0,-1
- 28 488 l 1,1,-1
- 28 534 l 1,2,-1
+187 488 m 1,0,-1
+ 97 488 l 1,1,-1
+ 97 534 l 1,2,-1
  343 534 l 1,3,-1
  343 488 l 1,4,-1
- 196 487 l 1,5,-1
- 150 403 l 1,6,-1
+ 252 488 l 1,5,-1
+ 206 404 l 1,6,-1
  394 404 l 1,7,-1
  394 334 l 1,8,-1
- 0 334 l 1,9,-1
- 0 404 l 1,10,-1
- 78 404 l 1,11,-1
- 131 488 l 1,0,-1
+ 65 334 l 1,9,-1
+ 65 113 l 1,10,-1
+ 340 113 l 1,11,-1
+ 372 51 l 1,12,-1
+ 0 51 l 1,13,-1
+ 0 539 l 2,14,15
+ 0 689 0 689 134 689 c 2,16,-1
+ 346 689 l 1,17,-1
+ 376 617 l 1,18,-1
+ 151 617 l 2,19,20
+ 65 617 65 617 65 538 c 2,21,-1
+ 65 404 l 1,22,-1
+ 134 404 l 1,23,-1
+ 187 488 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: I
@@ -1696,20 +1727,29 @@ Fore
 SplineSet
 394 404 m 1,0,-1
  394 334 l 1,1,-1
- 0 334 l 1,2,-1
- 0 404 l 1,3,-1
- 174 404 l 1,4,-1
- 66 522 l 1,5,-1
- 66 563 l 1,6,-1
- 107 563 l 1,7,-1
- 231 441 l 1,8,-1
- 309 528 l 1,9,-1
- 347 528 l 1,10,-1
- 347 492 l 1,11,-1
- 258 404 l 1,12,-1
+ 65 334 l 1,2,-1
+ 65 113 l 1,3,-1
+ 340 113 l 1,4,-1
+ 372 51 l 1,5,-1
+ 0 51 l 1,6,-1
+ 0 539 l 2,7,8
+ 0 689 0 689 134 689 c 1,9,-1
+ 346 689 l 1,10,-1
+ 376 617 l 1,11,-1
+ 151 617 l 2,12,13
+ 65 617 65 617 65 538 c 1,14,-1
+ 65 404 l 1,15,-1
+ 189 404 l 1,16,-1
+ 106 498 l 1,17,-1
+ 106 539 l 1,18,-1
+ 147 539 l 1,19,-1
+ 246 441 l 1,20,-1
+ 324 528 l 1,21,-1
+ 362 528 l 1,22,-1
+ 362 492 l 1,23,-1
+ 273 404 l 1,24,-1
  394 404 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: J
@@ -1719,7 +1759,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: L
@@ -1729,7 +1769,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: N
@@ -1739,7 +1779,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: O
@@ -1749,7 +1789,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: P
@@ -1759,7 +1799,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Q
@@ -1769,7 +1809,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: S
@@ -1779,7 +1819,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: T
@@ -1789,7 +1829,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: U
@@ -1799,7 +1839,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: V
@@ -1809,7 +1849,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: W
@@ -1819,7 +1859,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: X
@@ -1829,7 +1869,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Y
@@ -1839,7 +1879,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Z
@@ -1849,7 +1889,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 182 128 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: five
@@ -1973,16 +2013,21 @@ LayerCount: 2
 Fore
 SplineSet
 394 334 m 1,0,-1
- 0 334 l 1,1,-1
- 0 404 l 1,2,-1
- 234 405 l 1,3,-1
- 179 506 l 1,4,-1
- 260 506 l 1,5,-1
- 323 404 l 1,6,-1
- 394 404 l 1,7,-1
+ 65 334 l 1,1,-1
+ 65 173 l 1,2,3
+ 65 96 65 96 151 96 c 1,4,-1
+ 134 22 l 1,5,6
+ 0 22 0 22 0 170 c 2,7,-1
+ 0 660 l 1,8,-1
+ 65 660 l 1,9,-1
+ 65 405 l 1,10,-1
+ 234 405 l 1,11,-1
+ 179 506 l 1,12,-1
+ 260 506 l 1,13,-1
+ 323 404 l 1,14,-1
+ 394 404 l 1,15,-1
  394 334 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE250
@@ -2133,51 +2178,51 @@ EndChar
 StartChar: uniE110
 Encoding: 57616 57616 100
 Width: 420
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 7 48 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE111
 Encoding: 57617 57617 101
 Width: 448
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 8 49 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE112
 Encoding: 57618 57618 102
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 9 50 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE113
 Encoding: 57619 57619 103
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 10 51 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE114
 Encoding: 57620 57620 104
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 11 52 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE120
@@ -2652,7 +2697,7 @@ EndChar
 StartChar: uniE118
 Encoding: 57624 57624 142
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 88 56 N 1 0 0 1 0 0 2
@@ -2661,11 +2706,10 @@ EndChar
 StartChar: uniE119
 Encoding: 57625 57625 143
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 89 57 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE160
@@ -3059,31 +3103,31 @@ EndChar
 StartChar: uniE115
 Encoding: 57621 57621 167
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 85 53 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE116
 Encoding: 57622 57622 168
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 86 54 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE117
 Encoding: 57623 57623 169
 Width: 384
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 87 55 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE109
@@ -3149,51 +3193,46 @@ EndChar
 StartChar: uniE11A
 Encoding: 57626 57626 176
 Width: 394
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 66 65 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE11B
 Encoding: 57627 57627 177
 Width: 394
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 66 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE11C
 Encoding: 57628 57628 178
 Width: 394
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 59 99 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE11D
 Encoding: 57629 57629 179
 Width: 394
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 68 68 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE11E
 Encoding: 57630 57630 180
 Width: 394
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 69 69 N 1 0 0 1 0 0 2
-Validated: 98305
 EndChar
 
 StartChar: uniE11F
@@ -3221,7 +3260,7 @@ EndSplineSet
 Validated: 1
 EndChar
 EndChars
-BitmapFont: 16 185 12 4 1
+BitmapFont: 16 184 12 4 1
 BDFChar: 0 65536 6 0 0 0 0
 z
 BDFChar: 1 65537 0 0 0 0 0
@@ -3506,10 +3545,6 @@ BDFChar: 140 45 6 0 5 5 7
 E"Le)
 BDFChar: 141 61 6 0 5 2 7
 GY$$Y!-eJD
-BDFChar: -1 199 6 0 0 0 0
-z
-BDFChar: -1 231 6 0 0 0 0
-z
 BDFChar: 142 57624 6 0 0 0 0
 z
 BDFChar: 143 57625 6 0 0 0 0
