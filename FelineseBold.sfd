@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1421261332
-ModificationTime: 1631622822
+ModificationTime: 1631624331
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -736,7 +736,7 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 26
-Width: 345
+Width: 562
 Flags: W
 LayerCount: 2
 Fore
@@ -2708,11 +2708,11 @@ EndChar
 StartChar: uniE119
 Encoding: 57625 57625 145
 Width: 439
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 89 57 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE140
@@ -2817,61 +2817,61 @@ EndChar
 StartChar: uniE11A
 Encoding: 57626 57626 152
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 66 65 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE11C
 Encoding: 57628 57628 153
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 59 99 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE11B
 Encoding: 57627 57627 154
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 67 66 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE11D
 Encoding: 57629 57629 155
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 68 68 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE11E
 Encoding: 57630 57630 156
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 69 69 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE11F
 Encoding: 57631 57631 157
 Width: 444
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 70 73 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni25C6
@@ -2966,7 +2966,7 @@ BDFChar: 24 101 5 0 4 0 10
 f\"!T^qdb$^qf^F
 BDFChar: 25 102 9 1 7 4 6
 rW)ot
-BDFChar: 26 104 5 0 7 0 10
+BDFChar: 26 104 9 0 7 0 10
 rr<'!(`4),(`4(i
 BDFChar: 27 105 2 0 1 0 10
 ^qdb$^];0c^qd_c
