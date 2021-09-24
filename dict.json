@@ -274,12 +274,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "airhit",
-		"english": "show",
-		"hint": "present",
-		"pos": "verb"
-	},
-	{
 		"felin": "aigrith",
 		"english": "destroy",
 		"pos": "verb"
@@ -311,6 +305,12 @@
 		"english": "broken",
 		"hint": "not working, defunct",
 		"pos": "adjective"
+	},
+	{
+		"felin": "airhit",
+		"english": "show",
+		"hint": "present",
+		"pos": "verb"
 	},
 	{
 		"felin": "ais",
@@ -607,15 +607,15 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "amie oe",
+		"english": "be a friend",
+		"pos": "verb"
+	},
+	{
 		"felin": "amielim",
 		"english": "argon",
 		"hint": "element",
 		"pos": "noun"
-	},
-	{
-		"felin": "amie oe",
-		"english": "be a friend",
-		"pos": "verb"
 	},
 	{
 		"felin": "amrethu",
@@ -696,12 +696,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "ar'hul",
-		"english": "fifth day",
-		"hint": "of the week, weekday",
-		"pos": "noun"
-	},
-	{
 		"felin": "arami",
 		"english": "ask",
 		"pos": "verb"
@@ -720,6 +714,12 @@
 	{
 		"felin": "arhmla",
 		"english": "store",
+		"pos": "noun"
+	},
+	{
+		"felin": "ar'hul",
+		"english": "fifth day",
+		"hint": "of the week, weekday",
 		"pos": "noun"
 	},
 	{
@@ -810,12 +810,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "athur'oe",
-		"english": "be cold",
-		"hint": "temperature",
-		"pos": "verb"
-	},
-	{
 		"felin": "athure",
 		"english": "cold",
 		"hint": "temperature",
@@ -826,6 +820,12 @@
 		"english": "nitrogen",
 		"hint": "element",
 		"pos": "noun"
+	},
+	{
+		"felin": "athur'oe",
+		"english": "be cold",
+		"hint": "temperature",
+		"pos": "verb"
 	},
 	{
 		"felin": "athursila",
@@ -877,6 +877,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "baena",
+		"english": "rule",
+		"hint": "govern",
+		"pos": "verb"
+	},
+	{
 		"felin": "bahm",
 		"english": "bang",
 		"hint": "loud sound",
@@ -887,12 +893,6 @@
 		"english": "potassium",
 		"hint": "element",
 		"pos": "noun"
-	},
-	{
-		"felin": "baena",
-		"english": "rule",
-		"hint": "govern",
-		"pos": "verb"
 	},
 	{
 		"felin": "bahu",
@@ -1319,12 +1319,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "bukhwlim",
-		"english": "silicon",
-		"hint": "element",
-		"pos": "noun"
-	},
-	{
 		"felin": "bukhepalru",
 		"english": "computer work",
 		"hint": "professional/important stuff done on/with a computer",
@@ -1339,6 +1333,12 @@
 	{
 		"felin": "bukhifhevi",
 		"english": "video game",
+		"pos": "noun"
+	},
+	{
+		"felin": "bukhwlim",
+		"english": "silicon",
+		"hint": "element",
 		"pos": "noun"
 	},
 	{
@@ -1513,16 +1513,16 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "charmlive",
-		"english": "glove",
-		"hint": "shoe for the hand",
-		"pos": "noun"
-	},
-	{
 		"felin": "charkluvie",
 		"english": "Avian",
 		"hint": "Starbound game species, Aztec-like flightless bird people",
 		"pos": "proper noun"
+	},
+	{
+		"felin": "charmlive",
+		"english": "glove",
+		"hint": "shoe for the hand",
+		"pos": "noun"
 	},
 	{
 		"felin": "charnah",
@@ -1615,6 +1615,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "chikhi",
+		"english": "nickel",
+		"hint": "element",
+		"pos": "noun"
+	},
+	{
 		"felin": "chikhin",
 		"english": "chicken",
 		"hint": "poultry; bird",
@@ -1650,6 +1656,18 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "chisarhi",
+		"english": "fifteen",
+		"hint": "15",
+		"pos": "numeral"
+	},
+	{
+		"felin": "chisarhi-tiksre esnem-shaka-tinemrhi",
+		"english": "million",
+		"hint": "1,000,000",
+		"pos": "numeral"
+	},
+	{
 		"felin": "chisu",
 		"english": "smuggle",
 		"hint": "illegal",
@@ -1659,12 +1677,6 @@
 		"felin": "chisufhra",
 		"english": "smuggler",
 		"hint": "illegal importer/exporter",
-		"pos": "noun"
-	},
-	{
-		"felin": "chikhi",
-		"english": "nickel",
-		"hint": "element",
 		"pos": "noun"
 	},
 	{
@@ -1742,12 +1754,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "delithkhi",
-		"english": "cobalt",
-		"hint": "element",
-		"pos": "noun"
-	},
-	{
 		"felin": "dekahiku",
 		"english": "dark chocolate",
 		"hint": "food, candy, chocolate",
@@ -1819,6 +1825,12 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "delithkhi",
+		"english": "cobalt",
+		"hint": "element",
+		"pos": "noun"
+	},
+	{
 		"felin": "delthi",
 		"english": "lobe",
 		"hint": "of leaf",
@@ -1860,17 +1872,17 @@
 		"pos": "conjunction"
 	},
 	{
+		"felin": "difhio",
+		"english": "lettuce",
+		"hint": "vegetable",
+		"pos": "noun"
+	},
+	{
 		"felin": "dindu",
 		"english": "spelt",
 		"hint": "Triticum spelta",
 		"pos": "noun",
 		"notes": "Not actually Triticum spelta but analogous. Often used in muffins."
-	},
-	{
-		"felin": "diriepatirn",
-		"english": "tortilla",
-		"hint": "flatbread pancake",
-		"pos": "noun"
 	},
 	{
 		"felin": "dirh",
@@ -1897,9 +1909,9 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "difhio",
-		"english": "lettuce",
-		"hint": "vegetable",
+		"felin": "diriepatirn",
+		"english": "tortilla",
+		"hint": "flatbread pancake",
 		"pos": "noun"
 	},
 	{
@@ -1920,11 +1932,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "do'lahr",
-		"english": "dollar",
-		"pos": "noun"
-	},
-	{
 		"felin": "dohi",
 		"english": "dog",
 		"hint": "canine",
@@ -1934,6 +1941,11 @@
 		"felin": "doiat",
 		"english": "d",
 		"hint": "letter",
+		"pos": "noun"
+	},
+	{
+		"felin": "do'lahr",
+		"english": "dollar",
 		"pos": "noun"
 	},
 	{
@@ -2028,12 +2040,6 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "e'iat",
-		"english": "e",
-		"hint": "letter",
-		"pos": "noun"
-	},
-	{
 		"felin": "edefhia",
 		"english": "Edievia",
 		"hint": "concountry",
@@ -2067,6 +2073,12 @@
 		"felin": "ehie",
 		"english": "how",
 		"pos": "pronoun"
+	},
+	{
+		"felin": "e'iat",
+		"english": "e",
+		"hint": "letter",
+		"pos": "noun"
 	},
 	{
 		"felin": "eibulem",
@@ -2374,12 +2386,6 @@
 		"pos": "affix"
 	},
 	{
-		"felin": "em'mronalari",
-		"english": "autofellatio",
-		"hint": "It's all in the spine.",
-		"pos": "noun"
-	},
-	{
 		"felin": "emaisut",
 		"english": "imagination",
 		"pos": "noun"
@@ -2465,6 +2471,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "em'mronalari",
+		"english": "autofellatio",
+		"hint": "It's all in the spine.",
+		"pos": "noun"
+	},
+	{
 		"felin": "emparrmie",
 		"english": "enjoy oneself",
 		"pos": "verb"
@@ -2509,6 +2521,48 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "erha",
+		"english": "first",
+		"pos": "determiner"
+	},
+	{
+		"felin": "erha",
+		"english": "first",
+		"hint": "ordinal",
+		"pos": "adjective"
+	},
+	{
+		"felin": "erha grewhura",
+		"english": "January",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "First Gre(gorian) month"
+	},
+	{
+		"felin": "erhi",
+		"english": "one",
+		"hint": "1",
+		"pos": "numeral"
+	},
+	{
+		"felin": "erhi'aw",
+		"english": "lonely",
+		"pos": "adjective"
+	},
+	{
+		"felin": "erhishenchir",
+		"english": "millennium",
+		"hint": "1000 years",
+		"pos": "noun",
+		"notes": "From 'erhi-tiksre eshenrhi chirkul, '13,000 years'."
+	},
+	{
+		"felin": "erhi-tiksre esnehen-shana'e-tilosarhi",
+		"english": "one hundred thousand",
+		"hint": "100,000",
+		"pos": "numeral"
+	},
+	{
 		"felin": "eri",
 		"english": "far",
 		"hint": "distance",
@@ -2551,13 +2605,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "eshen-sha'erhi",
-		"english": "four hundred",
-		"hint": "400",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 3100"
-	},
-	{
 		"felin": "eshim",
 		"english": "council",
 		"hint": "~assembly",
@@ -2569,31 +2616,16 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "eska-shakarhi",
-		"english": "three hundred",
-		"hint": "300",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 2200"
-	},
-	{
 		"felin": "esluno",
 		"english": "resolution",
 		"hint": "of an image",
 		"pos": "noun"
 	},
 	{
-		"felin": "esna-shanemrhi",
-		"english": "six hundred",
-		"hint": "600",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 4400"
-	},
-	{
-		"felin": "esnemrhi",
-		"english": "five hundred",
-		"hint": "500",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 4000"
+		"felin": "esne-sha-erhi",
+		"english": "twenty thousand seven hundred thirty-six",
+		"hint": "20,736; 12^4",
+		"pos": "numeral"
 	},
 	{
 		"felin": "esor",
@@ -2606,32 +2638,10 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "erhi-sha'e-tikarhi-tiksre",
-		"english": "one hundred thousand",
-		"hint": "100,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1120,0000"
-	},
-	{
-		"felin": "esre-shahenrhi",
-		"english": "two hundred",
-		"hint": "200",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1300"
-	},
-	{
-		"felin": "esre-tihenrhi",
-		"english": "one hundred forty",
-		"hint": "140",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1030"
-	},
-	{
-		"felin": "esre-tisarhi",
-		"english": "one hundred thirty",
-		"hint": "130",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1010"
+		"felin": "esre-shahene-tinehen-nehenrhi",
+		"english": "five thousand",
+		"hint": "5,000",
+		"pos": "numeral"
 	},
 	{
 		"felin": "etemetu",
@@ -2731,63 +2741,6 @@
 		"pos": "pronoun"
 	},
 	{
-		"felin": "erhi",
-		"english": "one",
-		"hint": "1",
-		"pos": "numeral"
-	},
-	{
-		"felin": "erhi'aw",
-		"english": "lonely",
-		"pos": "adjective"
-	},
-	{
-		"felin": "erhi-tiksre eshenrhi",
-		"english": "one thousand",
-		"hint": "1,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1,3000"
-	},
-	{
-		"felin": "erhi-tiksre eska-sha'erhi",
-		"english": "nine hundred",
-		"hint": "900",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1,2100"
-	},
-	{
-		"felin": "erhi-tiksre esre-shakarhi",
-		"english": "eight hundred",
-		"hint": "800",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 11,200"
-	},
-	{
-		"felin": "erhi-tiksre shahenrhi",
-		"english": "seven hundred",
-		"hint": "700",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 1,0300"
-	},
-	{
-		"felin": "erha",
-		"english": "first",
-		"pos": "determiner"
-	},
-	{
-		"felin": "erha",
-		"english": "first",
-		"hint": "ordinal",
-		"pos": "adjective"
-	},
-	{
-		"felin": "erha grewhura",
-		"english": "January",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "First Gre(gorian) month"
-	},
-	{
 		"felin": "fahr",
 		"english": "would/should/could/ought",
 		"hint": "generic auxiliary",
@@ -2872,13 +2825,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "felchit",
-		"english": "currency",
-		"hint": "money",
-		"pos": "noun",
-		"notes": "Felin currency specifically - the People's Chits."
-	},
-	{
 		"felin": "fel",
 		"english": "person",
 		"pos": "noun"
@@ -2892,6 +2838,13 @@
 		"felin": "fela",
 		"english": "woman",
 		"pos": "noun"
+	},
+	{
+		"felin": "felchit",
+		"english": "currency",
+		"hint": "money",
+		"pos": "noun",
+		"notes": "Felin currency specifically - the People's Chits."
 	},
 	{
 		"felin": "felhru",
@@ -3183,15 +3136,15 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "fhenrhim",
-		"english": "lightning",
-		"hint": "weather",
-		"pos": "noun"
-	},
-	{
 		"felin": "fhenrhete",
 		"english": "halation",
 		"hint": "the spreading of light beyond its proper boundaries in a developed photographic image",
+		"pos": "noun"
+	},
+	{
+		"felin": "fhenrhim",
+		"english": "lightning",
+		"hint": "weather",
 		"pos": "noun"
 	},
 	{
@@ -3282,16 +3235,16 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "fhiethui",
-		"english": "kink",
-		"hint": "unusual source of pleasure",
-		"pos": "noun"
-	},
-	{
 		"felin": "fhiethuaw",
 		"english": "kinky",
 		"hint": "erotic",
 		"pos": "adjective"
+	},
+	{
+		"felin": "fhiethui",
+		"english": "kink",
+		"hint": "unusual source of pleasure",
+		"pos": "noun"
 	},
 	{
 		"felin": "fhievma",
@@ -3455,17 +3408,6 @@
 		"pos": "proper noun"
 	},
 	{
-		"felin": "fi'io",
-		"english": "link",
-		"pos": "noun"
-	},
-	{
-		"felin": "fi'io",
-		"english": "link",
-		"hint": "join",
-		"pos": "verb"
-	},
-	{
 		"felin": "fibsu",
 		"english": "layer",
 		"pos": "noun"
@@ -3558,6 +3500,17 @@
 		"english": "giggle",
 		"hint": "laugh",
 		"pos": "noun"
+	},
+	{
+		"felin": "fi'io",
+		"english": "link",
+		"pos": "noun"
+	},
+	{
+		"felin": "fi'io",
+		"english": "link",
+		"hint": "join",
+		"pos": "verb"
 	},
 	{
 		"felin": "filfhu",
@@ -4070,6 +4023,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "haemi",
+		"english": "strategy",
+		"hint": "overall plan",
+		"pos": "noun"
+	},
+	{
 		"felin": "hafma",
 		"english": "ship",
 		"hint": "a big boat.",
@@ -4105,12 +4064,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "haemi",
-		"english": "strategy",
-		"hint": "overall plan",
-		"pos": "noun"
-	},
-	{
 		"felin": "hchi",
 		"english": "achoo",
 		"hint": "noise of a sneeze",
@@ -4127,19 +4080,6 @@
 		"english": "where",
 		"hint": "interrogative",
 		"pos": "pronoun"
-	},
-	{
-		"felin": "henrhi",
-		"english": "three",
-		"hint": "3",
-		"pos": "numeral"
-	},
-	{
-		"felin": "hen-tiksre esresarhi",
-		"english": "two thousand",
-		"hint": "2,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 31000"
 	},
 	{
 		"felin": "henklave",
@@ -4164,6 +4104,12 @@
 		"hint": "month",
 		"pos": "noun",
 		"notes": "Third Gre(gorian) month"
+	},
+	{
+		"felin": "henrhi",
+		"english": "three",
+		"hint": "3",
+		"pos": "numeral"
 	},
 	{
 		"felin": "hepna",
@@ -4468,40 +4414,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "i'eia",
-		"english": "music",
-		"pos": "noun"
-	},
-	{
-		"felin": "i'eiaw",
-		"english": "musical",
-		"pos": "adjective"
-	},
-	{
-		"felin": "i'eme",
-		"english": "chair",
-		"hint": "furniture",
-		"pos": "noun"
-	},
-	{
-		"felin": "i'emla",
-		"english": "glasses",
-		"hint": "spectacles",
-		"pos": "noun"
-	},
-	{
-		"felin": "i'esa",
-		"english": "repeat",
-		"hint": "do again",
-		"pos": "verb"
-	},
-	{
-		"felin": "i'iat",
-		"english": "i",
-		"hint": "letter",
-		"pos": "noun"
-	},
-	{
 		"felin": "iaem",
 		"english": "port",
 		"pos": "noun"
@@ -4568,19 +4480,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "iklar",
-		"english": "channel",
-		"hint": "TV",
-		"pos": "noun"
-	},
-	{
-		"felin": "erhishenchir",
-		"english": "millennium",
-		"hint": "1000 years",
-		"pos": "noun",
-		"notes": "From 'erhi-tiksre eshenrhi chirkul, '13,000 years'."
-	},
-	{
 		"felin": "ibe",
 		"english": "seat",
 		"pos": "noun"
@@ -4610,10 +4509,32 @@
 		"pos": "interjection"
 	},
 	{
+		"felin": "i'eia",
+		"english": "music",
+		"pos": "noun"
+	},
+	{
+		"felin": "i'eiaw",
+		"english": "musical",
+		"pos": "adjective"
+	},
+	{
 		"felin": "iela",
 		"english": "consider",
 		"hint": "think, regard, find",
 		"pos": "verb"
+	},
+	{
+		"felin": "i'eme",
+		"english": "chair",
+		"hint": "furniture",
+		"pos": "noun"
+	},
+	{
+		"felin": "i'emla",
+		"english": "glasses",
+		"hint": "spectacles",
+		"pos": "noun"
 	},
 	{
 		"felin": "ieran",
@@ -4626,14 +4547,14 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "ifkei",
-		"english": "disk",
-		"pos": "noun"
+		"felin": "i'esa",
+		"english": "repeat",
+		"hint": "do again",
+		"pos": "verb"
 	},
 	{
-		"felin": "igr'rito",
-		"english": "menu",
-		"hint": "restaurant",
+		"felin": "ifkei",
+		"english": "disk",
 		"pos": "noun"
 	},
 	{
@@ -4653,10 +4574,38 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "igr'rito",
+		"english": "menu",
+		"hint": "restaurant",
+		"pos": "noun"
+	},
+	{
 		"felin": "igrus",
 		"english": "food",
 		"hint": "edible",
 		"pos": "noun"
+	},
+	{
+		"felin": "i'iat",
+		"english": "i",
+		"hint": "letter",
+		"pos": "noun"
+	},
+	{
+		"felin": "iklar",
+		"english": "channel",
+		"hint": "TV",
+		"pos": "noun"
+	},
+	{
+		"felin": "ilar",
+		"english": "relax",
+		"pos": "verb"
+	},
+	{
+		"felin": "ilaraw",
+		"english": "relaxed",
+		"pos": "adjective"
 	},
 	{
 		"felin": "ilaud",
@@ -4680,16 +4629,6 @@
 		"felin": "ilaudrhuw",
 		"english": "countable",
 		"hint": "can be counted",
-		"pos": "adjective"
-	},
-	{
-		"felin": "ilar",
-		"english": "relax",
-		"pos": "verb"
-	},
-	{
-		"felin": "ilaraw",
-		"english": "relaxed",
 		"pos": "adjective"
 	},
 	{
@@ -5231,12 +5170,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "k'bum",
-		"english": "ka-boom",
-		"hint": "BRMMMM",
-		"pos": "interjection"
-	},
-	{
 		"felin": "kaelis",
 		"english": "Caelys",
 		"hint": "CWSP Planet",
@@ -5263,42 +5196,10 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "karhi",
-		"english": "two",
-		"hint": "2",
-		"pos": "numeral"
-	},
-	{
-		"felin": "karhi-tiksre eska-shanemrhi-tiksre",
-		"english": "million",
-		"hint": "1,000,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 2,2400,0000"
-	},
-	{
-		"felin": "karhlaeke",
-		"english": "colon",
-		"hint": ":",
-		"pos": "noun"
-	},
-	{
-		"felin": "kar'hap",
-		"english": "pair",
-		"hint": "two things",
-		"pos": "noun"
-	},
-	{
 		"felin": "kairha",
 		"english": "second",
 		"hint": "ordinal",
 		"pos": "adjective"
-	},
-	{
-		"felin": "karha grewhura",
-		"english": "february",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Second Gre(gorian) month"
 	},
 	{
 		"felin": "kalbe",
@@ -5434,6 +5335,31 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "karha grewhura",
+		"english": "february",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Second Gre(gorian) month"
+	},
+	{
+		"felin": "kar'hap",
+		"english": "pair",
+		"hint": "two things",
+		"pos": "noun"
+	},
+	{
+		"felin": "karhi",
+		"english": "two",
+		"hint": "2",
+		"pos": "numeral"
+	},
+	{
+		"felin": "karhlaeke",
+		"english": "colon",
+		"hint": ":",
+		"pos": "noun"
+	},
+	{
 		"felin": "karrdi",
 		"english": "problem",
 		"pos": "noun"
@@ -5448,6 +5374,12 @@
 		"english": "rose",
 		"hint": "flower",
 		"pos": "noun"
+	},
+	{
+		"felin": "k'bum",
+		"english": "ka-boom",
+		"hint": "BRMMMM",
+		"pos": "interjection"
 	},
 	{
 		"felin": "keiat",
@@ -5647,12 +5579,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "khla'hul",
-		"english": "seventh day",
-		"hint": "of the week, weekday",
-		"pos": "noun"
-	},
-	{
 		"felin": "khlafheve",
 		"english": "sunrise",
 		"pos": "noun"
@@ -5679,6 +5605,12 @@
 		"felin": "khlaholna",
 		"english": "solar sail",
 		"hint": "space travelling technology",
+		"pos": "noun"
+	},
+	{
+		"felin": "khla'hul",
+		"english": "seventh day",
+		"hint": "of the week, weekday",
 		"pos": "noun"
 	},
 	{
@@ -5974,15 +5906,15 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "kloirteri",
-		"english": "smell of food cooking",
-		"pos": "noun"
-	},
-	{
 		"felin": "kloirhuti",
 		"english": "kitchen",
 		"pos": "noun",
 		"notes": "Literally 'cooking room'."
+	},
+	{
+		"felin": "kloirteri",
+		"english": "smell of food cooking",
+		"pos": "noun"
 	},
 	{
 		"felin": "klunae",
@@ -6897,6 +6829,12 @@
 		"notes": "Oh sweetheart no it's not for a horse :D"
 	},
 	{
+		"felin": "lohenrhi",
+		"english": "thirteen",
+		"hint": "13",
+		"pos": "numeral"
+	},
+	{
 		"felin": "loithr",
 		"english": "fear",
 		"pos": "verb"
@@ -6930,9 +6868,53 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "lokarha grewhura",
+		"english": "december",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Twelfth Gre(gorian) month"
+	},
+	{
+		"felin": "lokarhi",
+		"english": "twelve",
+		"hint": "12",
+		"pos": "numeral"
+	},
+	{
 		"felin": "lomeli",
 		"english": "west",
 		"hint": "compass direction",
+		"pos": "noun"
+	},
+	{
+		"felin": "lonemrhi",
+		"english": "fourteen",
+		"hint": "14",
+		"pos": "numeral"
+	},
+	{
+		"felin": "lonerha grewhura",
+		"english": "november",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Eleventh Gre(gorian) month"
+	},
+	{
+		"felin": "lonerhi",
+		"english": "eleven",
+		"hint": "11",
+		"pos": "numeral"
+	},
+	{
+		"felin": "losarhi",
+		"english": "ten",
+		"hint": "10",
+		"pos": "numeral"
+	},
+	{
+		"felin": "losarhlim",
+		"english": "neon",
+		"hint": "element",
 		"pos": "noun"
 	},
 	{
@@ -7179,6 +7161,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "maevikit",
+		"english": "Novakid",
+		"hint": "Starbound game species, gas bag cowboy",
+		"pos": "proper noun"
+	},
+	{
 		"felin": "maewhura",
 		"english": "fifth month",
 		"hint": "calendar month",
@@ -7307,14 +7295,14 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "martaekhlahi",
-		"english": "sunlight",
-		"pos": "noun"
-	},
-	{
 		"felin": "martaekhi",
 		"english": "chromium",
 		"hint": "element",
+		"pos": "noun"
+	},
+	{
+		"felin": "martaekhlahi",
+		"english": "sunlight",
 		"pos": "noun"
 	},
 	{
@@ -7483,15 +7471,15 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "mesukhe",
+		"english": "something",
+		"pos": "pronoun"
+	},
+	{
 		"felin": "mesukh'oe",
 		"english": "be something",
 		"hint": "literal",
 		"pos": "verb"
-	},
-	{
-		"felin": "mesukhe",
-		"english": "something",
-		"pos": "pronoun"
 	},
 	{
 		"felin": "mesul",
@@ -7561,10 +7549,9 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "mevebilim",
-		"english": "astatine",
-		"hint": "element",
-		"pos": "noun"
+		"felin": "mevebi oe",
+		"english": "be naked",
+		"pos": "verb"
 	},
 	{
 		"felin": "mevebi'im",
@@ -7573,9 +7560,10 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "mevebi oe",
-		"english": "be naked",
-		"pos": "verb"
+		"felin": "mevebilim",
+		"english": "astatine",
+		"hint": "element",
+		"pos": "noun"
 	},
 	{
 		"felin": "meverthifhra",
@@ -7659,12 +7647,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "mir'hul",
-		"english": "first day",
-		"hint": "of the week, weekday",
-		"pos": "noun"
-	},
-	{
 		"felin": "mira",
 		"english": "bounce",
 		"pos": "verb"
@@ -7685,6 +7667,18 @@
 		"english": "bouncy",
 		"hint": "cf. bounce",
 		"pos": "adjective"
+	},
+	{
+		"felin": "mirethe",
+		"english": "blur",
+		"hint": "make unsharp",
+		"pos": "verb"
+	},
+	{
+		"felin": "mir'hul",
+		"english": "first day",
+		"hint": "of the week, weekday",
+		"pos": "noun"
 	},
 	{
 		"felin": "mirthe",
@@ -7711,24 +7705,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "mirethe",
-		"english": "blur",
-		"hint": "make unsharp",
-		"pos": "verb"
-	},
-	{
-		"felin": "mithi",
-		"english": "life",
-		"hint": "living things",
-		"pos": "noun"
-	},
-	{
-		"felin": "mithi",
-		"english": "lively",
-		"hint": "energetic",
-		"pos": "adjective"
-	},
-	{
 		"felin": "misrelim",
 		"english": "lanthanum",
 		"hint": "element",
@@ -7749,6 +7725,18 @@
 		"felin": "misurr",
 		"english": "laugh",
 		"pos": "noun"
+	},
+	{
+		"felin": "mithi",
+		"english": "life",
+		"hint": "living things",
+		"pos": "noun"
+	},
+	{
+		"felin": "mithi",
+		"english": "lively",
+		"hint": "energetic",
+		"pos": "adjective"
 	},
 	{
 		"felin": "mlagri",
@@ -8464,56 +8452,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "naso",
-		"english": "lose",
-		"hint": "misplace",
-		"pos": "verb"
-	},
-	{
-		"felin": "nemrhi",
-		"english": "four",
-		"hint": "4",
-		"pos": "numeral"
-	},
-	{
-		"felin": "nem-tiksre esnemrhi",
-		"english": "three thousand",
-		"hint": "3,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 44000"
-	},
-	{
-		"felin": "nem-tiksre shaka-tikarhi-tik-setiksre",
-		"english": "billion",
-		"hint": "10^9",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 4,0220,0000,0000"
-	},
-	{
-		"felin": "nemhap",
-		"english": "nibble",
-		"hint": "half a byte, usually four bits",
-		"pos": "noun"
-	},
-	{
-		"felin": "nemklave",
-		"english": "square",
-		"pos": "noun"
-	},
-	{
-		"felin": "nemrha",
-		"english": "fourth",
-		"hint": "ordinal",
-		"pos": "adjective"
-	},
-	{
-		"felin": "nemrha grewhura",
-		"english": "april",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Fourth Gre(gorian) month"
-	},
-	{
 		"felin": "nakhe",
 		"english": "enough",
 		"hint": "Sufficient",
@@ -8549,28 +8487,10 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "nemorthim",
-		"english": "quarter",
-		"hint": "¼, fraction",
-		"pos": "noun"
-	},
-	{
-		"felin": "nemorthimaw",
-		"english": "quarter",
-		"hint": "one fourth of",
-		"pos": "adjective"
-	},
-	{
 		"felin": "nar",
 		"english": "not",
 		"hint": "negator",
 		"pos": "adverb"
-	},
-	{
-		"felin": "narbosolim",
-		"english": "unobtainium",
-		"hint": "element",
-		"pos": "noun"
 	},
 	{
 		"felin": "nar karrdi",
@@ -8614,6 +8534,12 @@
 		"felin": "narathelrhuw",
 		"english": "invisible",
 		"pos": "adjective"
+	},
+	{
+		"felin": "narbosolim",
+		"english": "unobtainium",
+		"hint": "element",
+		"pos": "noun"
 	},
 	{
 		"felin": "naritaw",
@@ -8669,6 +8595,12 @@
 		"pos": "adposition"
 	},
 	{
+		"felin": "naso",
+		"english": "lose",
+		"hint": "misplace",
+		"pos": "verb"
+	},
+	{
 		"felin": "natis",
 		"english": "ankle",
 		"hint": "body",
@@ -8680,8 +8612,123 @@
 		"pos": "determiner"
 	},
 	{
+		"felin": "nehenklave",
+		"english": "octagon",
+		"pos": "noun"
+	},
+	{
+		"felin": "nehenrha grewhura",
+		"english": "august",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Eighth Gre(gorian) month"
+	},
+	{
+		"felin": "nehenrhi",
+		"english": "eight",
+		"hint": "8",
+		"pos": "numeral"
+	},
+	{
 		"felin": "nehveket",
 		"english": "towel",
+		"pos": "noun"
+	},
+	{
+		"felin": "nekarha grewhura",
+		"english": "july",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Seventh Gre(gorian) month"
+	},
+	{
+		"felin": "nekarhi",
+		"english": "seven",
+		"hint": "7",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nekarklave",
+		"english": "heptagon",
+		"pos": "noun"
+	},
+	{
+		"felin": "nemhap",
+		"english": "nibble",
+		"hint": "half a byte, usually four bits",
+		"pos": "noun"
+	},
+	{
+		"felin": "nemklave",
+		"english": "square",
+		"pos": "noun"
+	},
+	{
+		"felin": "nemorthim",
+		"english": "quarter",
+		"hint": "¼, fraction",
+		"pos": "noun"
+	},
+	{
+		"felin": "nemorthimaw",
+		"english": "quarter",
+		"hint": "one fourth of",
+		"pos": "adjective"
+	},
+	{
+		"felin": "nemrha",
+		"english": "fourth",
+		"hint": "ordinal",
+		"pos": "adjective"
+	},
+	{
+		"felin": "nemrha grewhura",
+		"english": "april",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Fourth Gre(gorian) month"
+	},
+	{
+		"felin": "nemrhi",
+		"english": "four",
+		"hint": "4",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nem-tiksre shaka-tikarhi-tik-satiksre",
+		"english": "billion",
+		"hint": "10^9",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nenemrha grewhura",
+		"english": "september",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Ninth Gre(gorian) month"
+	},
+	{
+		"felin": "nenemrhi",
+		"english": "nine",
+		"hint": "9",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nenerha grewhura",
+		"english": "june",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Sixth Gre(gorian) month"
+	},
+	{
+		"felin": "nenerhi",
+		"english": "six",
+		"hint": "6",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nenerklave",
+		"english": "hexagon",
 		"pos": "noun"
 	},
 	{
@@ -8689,6 +8736,24 @@
 		"english": "Neptune",
 		"hint": "planet",
 		"pos": "proper noun"
+	},
+	{
+		"felin": "nesarha grewhura",
+		"english": "may",
+		"hint": "month",
+		"pos": "proper noun",
+		"notes": "Fifth Gre(gorian) month"
+	},
+	{
+		"felin": "nesarhi",
+		"english": "five",
+		"hint": "5",
+		"pos": "numeral"
+	},
+	{
+		"felin": "nesarklave",
+		"english": "pentagon",
+		"pos": "noun"
 	},
 	{
 		"felin": "nethae",
@@ -8811,12 +8876,6 @@
 		"english": "biologist",
 		"hint": "studies biology",
 		"pos": "noun"
-	},
-	{
-		"felin": "maevikit",
-		"english": "Novakid",
-		"hint": "Starbound game species, gas bag cowboy",
-		"pos": "proper noun"
 	},
 	{
 		"felin": "nuiat",
@@ -9639,14 +9698,14 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "pliam'oe",
-		"english": "be polite",
-		"pos": "verb"
-	},
-	{
 		"felin": "pliamie",
 		"english": "friendly",
 		"pos": "adjective"
+	},
+	{
+		"felin": "pliam'oe",
+		"english": "be polite",
+		"pos": "verb"
 	},
 	{
 		"felin": "plikh",
@@ -10036,15 +10095,15 @@
 		"pos": "adposition"
 	},
 	{
-		"felin": "ra'hul",
-		"english": "eighth day",
-		"hint": "weekday",
-		"pos": "noun"
-	},
-	{
 		"felin": "raewenfhriss",
 		"english": "ocean",
 		"hint": "large body of water",
+		"pos": "noun"
+	},
+	{
+		"felin": "ra'hul",
+		"english": "eighth day",
+		"hint": "weekday",
 		"pos": "noun"
 	},
 	{
@@ -10333,16 +10392,16 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "rhwafhralim",
-		"english": "gallium",
-		"hint": "element",
-		"pos": "noun"
-	},
-	{
 		"felin": "rhwafhra oe",
 		"english": "be a hunter",
 		"hint": "profession",
 		"pos": "verb"
+	},
+	{
+		"felin": "rhwafhralim",
+		"english": "gallium",
+		"hint": "element",
+		"pos": "noun"
 	},
 	{
 		"felin": "rhwathefhra",
@@ -10509,6 +10568,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "rograhkhi",
+		"english": "ruthenium",
+		"hint": "element",
+		"pos": "noun"
+	},
+	{
 		"felin": "rograhs",
 		"english": "rage",
 		"hint": "feeling",
@@ -10518,12 +10583,6 @@
 		"felin": "rograhs",
 		"english": "rage",
 		"pos": "verb"
-	},
-	{
-		"felin": "rograhkhi",
-		"english": "ruthenium",
-		"hint": "element",
-		"pos": "noun"
 	},
 	{
 		"felin": "rois",
@@ -10737,14 +10796,14 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "rurthau",
-		"english": "emergency",
-		"pos": "noun"
-	},
-	{
 		"felin": "rurthaproh",
 		"english": "evacuate",
 		"pos": "verb"
+	},
+	{
+		"felin": "rurthau",
+		"english": "emergency",
+		"pos": "noun"
 	},
 	{
 		"felin": "ruthra",
@@ -10777,15 +10836,15 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "ruthrashigrifhra",
-		"english": "pyromaniac",
-		"hint": "loves setting things ablaze",
-		"pos": "noun"
-	},
-	{
 		"felin": "ruthralim",
 		"english": "magnesium",
 		"hint": "element",
+		"pos": "noun"
+	},
+	{
+		"felin": "ruthrashigrifhra",
+		"english": "pyromaniac",
+		"hint": "loves setting things ablaze",
 		"pos": "noun"
 	},
 	{
@@ -10853,6 +10912,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "salrho",
+		"english": "null",
+		"hint": "nothingness, undefined state, null-pointer exception",
+		"pos": "noun"
+	},
+	{
 		"felin": "salsi",
 		"english": "tackle",
 		"hint": "jump grab!",
@@ -10898,6 +10963,17 @@
 		"notes": "Pun."
 	},
 	{
+		"felin": "sarha",
+		"english": "zeroth",
+		"hint": "before first",
+		"pos": "adjective"
+	},
+	{
+		"felin": "sarhi",
+		"english": "zero",
+		"pos": "numeral"
+	},
+	{
 		"felin": "satarhn",
 		"english": "Saturn",
 		"hint": "planet",
@@ -10928,23 +11004,6 @@
 		"felin": "sehethalim",
 		"english": "carbon",
 		"hint": "element",
-		"pos": "noun"
-	},
-	{
-		"felin": "sarhi",
-		"english": "zero",
-		"pos": "numeral"
-	},
-	{
-		"felin": "sarha",
-		"english": "zeroth",
-		"hint": "before first",
-		"pos": "adjective"
-	},
-	{
-		"felin": "salrho",
-		"english": "null",
-		"hint": "nothingness, undefined state, null-pointer exception",
 		"pos": "noun"
 	},
 	{
@@ -11123,88 +11182,52 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "sha'e-erhi",
-		"english": "twenty six",
-		"hint": "26",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 101"
+		"felin": "sha'e-ticha-nemrhi",
+		"english": "five hundred",
+		"hint": "500",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-henrhi",
-		"english": "twenty eight",
-		"hint": "28",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 103"
+		"felin": "sha'e-tika-lokarhi",
+		"english": "three hundred",
+		"hint": "300",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-karhi",
-		"english": "twenty seven",
-		"hint": "27",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 102"
+		"felin": "sha'e-tinenemrhi",
+		"english": "four hundred",
+		"hint": "400",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-nemrhi",
-		"english": "twenty nine",
-		"hint": "29",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 104"
+		"felin": "shahene-tikarhi",
+		"english": "eight hundred",
+		"hint": "800",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-tie-hen-tiksre shanem-tika-erhi",
-		"english": "twenty thousand seven hundred thirty-six",
-		"hint": "20,736; 12^4",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 113,0421"
+		"felin": "shahene-tilonem-nehenrhi",
+		"english": "one thousand",
+		"hint": "1,000",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-tihenrhi",
-		"english": "forty",
-		"hint": "40",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 130"
+		"felin": "shahene-tinehen-nemrhi",
+		"english": "nine hundred",
+		"hint": "900",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'e-tisarhi",
-		"english": "thirty",
-		"hint": "30",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 110"
+		"felin": "shaka-tilone-lokarhi",
+		"english": "seven hundred",
+		"hint": "700",
+		"pos": "numeral"
 	},
 	{
-		"felin": "sha'erhi",
-		"english": "twenty five",
-		"hint": "25",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 100"
-	},
-	{
-		"felin": "shahen-tihenrhi",
-		"english": "ninety",
-		"hint": "90",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 330"
-	},
-	{
-		"felin": "shaka-tikarhi",
-		"english": "sixty",
-		"hint": "60",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 220"
-	},
-	{
-		"felin": "shaka-tinemrhi",
-		"english": "seventy",
-		"hint": "70",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 240"
-	},
-	{
-		"felin": "shakarhi",
-		"english": "fifty",
-		"hint": "50",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 200"
+		"felin": "shaka-tines-nehenrhi",
+		"english": "six hundred",
+		"hint": "600",
+		"pos": "numeral"
 	},
 	{
 		"felin": "shal",
@@ -11257,6 +11280,12 @@
 		"english": "Blastoise",
 		"hint": "Pokemon 009",
 		"pos": "proper noun"
+	},
+	{
+		"felin": "shalo'e-tilone-nehenrhi",
+		"english": "three thousand",
+		"hint": "3,000",
+		"pos": "numeral"
 	},
 	{
 		"felin": "shalprimru",
@@ -11317,74 +11346,10 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "shana-erhi",
-		"english": "one hundred one",
-		"hint": "101",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 401"
-	},
-	{
-		"felin": "shana-henrhi",
-		"english": "one hundred three",
-		"hint": "103",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 403"
-	},
-	{
-		"felin": "shana-karhi",
-		"english": "one hundred two",
-		"hint": "102",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 402"
-	},
-	{
-		"felin": "shana-nemrhi",
-		"english": "one hundred four",
-		"hint": "104",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 404"
-	},
-	{
-		"felin": "shana-tie-erhi",
-		"english": "one hundred six",
-		"hint": "106",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 411"
-	},
-	{
-		"felin": "shana-tie-karhi",
-		"english": "one hundred seven",
-		"hint": "107",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 412"
-	},
-	{
-		"felin": "shana-tie-nemrhi",
-		"english": "one hundred nine",
-		"hint": "109",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 414"
-	},
-	{
-		"felin": "shana-tikarhi",
-		"english": "one hundred ten",
-		"hint": "110",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 420"
-	},
-	{
-		"felin": "shana-tinemrhi",
-		"english": "one hundred twenty",
-		"hint": "120",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 440"
-	},
-	{
-		"felin": "shana-tisarhi",
-		"english": "one hundred five",
-		"hint": "105",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 410"
+		"felin": "shanaka-tilohenrhi",
+		"english": "two thousand",
+		"hint": "2,000",
+		"pos": "numeral"
 	},
 	{
 		"felin": "shanemchir",
@@ -11392,20 +11357,6 @@
 		"hint": "100 years",
 		"pos": "noun",
 		"notes": "From 'shanemrhi chirkul', 400 years."
-	},
-	{
-		"felin": "shanemrhi",
-		"english": "one hundred",
-		"hint": "100",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 400"
-	},
-	{
-		"felin": "shanemrhi",
-		"english": "hundred",
-		"hint": "number",
-		"pos": "determiner",
-		"notes": "Mind the number base: this is written 400"
 	},
 	{
 		"felin": "sharid",
@@ -11579,20 +11530,6 @@
 		"felin": "sifvuar",
 		"english": "cruel",
 		"pos": "adjective"
-	},
-	{
-		"felin": "shahenrhi-tisarhi",
-		"english": "eighty",
-		"hint": "80",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 310"
-	},
-	{
-		"felin": "shana-tie-henrhi",
-		"english": "one hundred eight",
-		"hint": "108",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 413"
 	},
 	{
 		"felin": "sihio",
@@ -11798,12 +11735,6 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "sli'i'eme",
-		"english": "stool",
-		"hint": "type of chair",
-		"pos": "noun"
-	},
-	{
 		"felin": "slidohi",
 		"english": "puppy",
 		"hint": "dog",
@@ -11825,6 +11756,12 @@
 		"felin": "sliholnafma",
 		"english": "sailboat",
 		"hint": "boat with sail",
+		"pos": "noun"
+	},
+	{
+		"felin": "sli'i'eme",
+		"english": "stool",
+		"hint": "type of chair",
 		"pos": "noun"
 	},
 	{
@@ -11942,14 +11879,14 @@
 		"pos": "verb"
 	},
 	{
-		"felin": "sueravlei",
-		"english": "falsehood",
-		"pos": "noun"
-	},
-	{
 		"felin": "suerathuva",
 		"english": "mirage",
 		"hint": "optical phenomenon",
+		"pos": "noun"
+	},
+	{
+		"felin": "sueravlei",
+		"english": "falsehood",
 		"pos": "noun"
 	},
 	{
@@ -12274,12 +12211,6 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tav'oe",
-		"english": "be hot",
-		"hint": "temperature",
-		"pos": "verb"
-	},
-	{
 		"felin": "tave",
 		"english": "hot",
 		"hint": "temperature",
@@ -12290,6 +12221,12 @@
 		"english": "hot water",
 		"hint": "such as for bathing",
 		"pos": "noun"
+	},
+	{
+		"felin": "tav'oe",
+		"english": "be hot",
+		"hint": "temperature",
+		"pos": "verb"
 	},
 	{
 		"felin": "tavsehiuthi",
@@ -12577,82 +12514,10 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tie'erha grewhura",
-		"english": "june",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Sixth Gre(gorian) month"
-	},
-	{
-		"felin": "tie'henrha grewhura",
-		"english": "august",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Eighth Gre(gorian) month"
-	},
-	{
-		"felin": "tie'karha grewhura",
-		"english": "july",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Seventh Gre(gorian) month"
-	},
-	{
-		"felin": "tie'nairha grewhura",
-		"english": "september",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Ninth Gre(gorian) month"
-	},
-	{
 		"felin": "tie-erhi",
-		"english": "six",
-		"hint": "6",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 11"
-	},
-	{
-		"felin": "tie-erklave",
-		"english": "hexagon",
-		"pos": "noun"
-	},
-	{
-		"felin": "tie-henrhi",
-		"english": "eight",
-		"hint": "8",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 13"
-	},
-	{
-		"felin": "tie-hen-tiksre",
-		"english": "five thousand",
-		"hint": "5,000",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 130,000"
-	},
-	{
-		"felin": "tie-henklave",
-		"english": "octagon",
-		"pos": "noun"
-	},
-	{
-		"felin": "tie-karhi",
-		"english": "seven",
-		"hint": "7",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 12"
-	},
-	{
-		"felin": "tie-karklave",
-		"english": "heptagon",
-		"pos": "noun"
-	},
-	{
-		"felin": "tie-nemrhi",
-		"english": "nine",
-		"hint": "9",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 14"
+		"english": "seventeen",
+		"hint": "17",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tiehap",
@@ -12661,9 +12526,21 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "tie-henrhi",
+		"english": "nineteen",
+		"hint": "19",
+		"pos": "numeral"
+	},
+	{
 		"felin": "tiehul",
 		"english": "week",
 		"pos": "noun"
+	},
+	{
+		"felin": "tie-karhi",
+		"english": "eighteen",
+		"hint": "18",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tielin",
@@ -12673,81 +12550,83 @@
 		"notes": "This refers to the felin subtype, not the Earth animal."
 	},
 	{
-		"felin": "tihen-erhi",
-		"english": "sixteen",
-		"hint": "16",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 31"
+		"felin": "tie-lohenrhi",
+		"english": "twenty nine",
+		"hint": "29",
+		"pos": "numeral"
 	},
 	{
-		"felin": "tihen-henrhi",
-		"english": "eighteen",
-		"hint": "18",
+		"felin": "tie-lokarhi",
+		"english": "twenty eight",
+		"hint": "28",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-lonemrhi",
+		"english": "thirty",
+		"hint": "30",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-lonerhi",
+		"english": "twenty seven",
+		"hint": "27",
 		"pos": "numeral",
-		"notes": "Mind the number base: this is written 33"
+		"notes": "Mind the number base: this is written 102"
+	},
+	{
+		"felin": "tie-losarhi",
+		"english": "twenty six",
+		"hint": "26",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nehenrhi",
+		"english": "twenty four",
+		"hint": "20",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nekarhi",
+		"english": "twenty three",
+		"hint": "23",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nemrhi",
+		"english": "twenty",
+		"hint": "20",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nenemrhi",
+		"english": "twenty five",
+		"hint": "25",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nenerhi",
+		"english": "twenty two",
+		"hint": "22",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tie-nesarhi",
+		"english": "twenty one",
+		"hint": "21",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tihen-karhi",
-		"english": "seventeen",
-		"hint": "17",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 32"
+		"english": "fifty",
+		"hint": "50",
+		"pos": "numeral"
 	},
 	{
-		"felin": "tihen-nemrhi",
-		"english": "nineteen",
-		"hint": "19",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 34"
-	},
-	{
-		"felin": "tihenrhi",
-		"english": "fifteen",
-		"hint": "15",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 30"
-	},
-	{
-		"felin": "tika'erha grewhura",
-		"english": "november",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Eleventh Gre(gorian) month"
-	},
-	{
-		"felin": "tika'kairha grewhura",
-		"english": "december",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Twelfth Gre(gorian) month"
-	},
-	{
-		"felin": "tika-erhi",
-		"english": "eleven",
-		"hint": "11",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 21"
-	},
-	{
-		"felin": "tika-henrhi",
-		"english": "thirteen",
-		"hint": "13",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 23"
-	},
-	{
-		"felin": "tika-karhi",
-		"english": "twelve",
-		"hint": "12",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 22"
-	},
-	{
-		"felin": "tika-nemrhi",
-		"english": "fourteen",
-		"hint": "14",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 24"
+		"felin": "tihen-lokarhi",
+		"english": "sixty",
+		"hint": "60",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tikaichir",
@@ -12757,24 +12636,17 @@
 		"notes": "From 'tikarhi chirkul', 20 years."
 	},
 	{
-		"felin": "tikarhi",
-		"english": "ten",
-		"hint": "10",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 20"
-	},
-	{
-		"felin": "tikailim",
-		"english": "neon",
-		"hint": "element",
-		"pos": "noun"
-	},
-	{
 		"felin": "tikairha grawhura",
 		"english": "october",
 		"hint": "month",
 		"pos": "proper noun",
 		"notes": "Tenth Gre(gorian) month"
+	},
+	{
+		"felin": "tika-nehenrhi",
+		"english": "forty",
+		"hint": "40",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tikrel",
@@ -12800,15 +12672,21 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "tilear oe",
+		"english": "be strong",
+		"pos": "verb"
+	},
+	{
 		"felin": "tilearkhi",
 		"english": "titanium",
 		"hint": "element",
 		"pos": "noun"
 	},
 	{
-		"felin": "tilear oe",
-		"english": "be strong",
-		"pos": "verb"
+		"felin": "tiloka-nehenrhi",
+		"english": "two hundred",
+		"hint": "200",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tin",
@@ -12817,39 +12695,28 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "tina-erhi",
-		"english": "twenty one",
-		"hint": "21",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 41"
+		"felin": "tina-nenerhi",
+		"english": "seventy",
+		"hint": "70",
+		"pos": "numeral"
 	},
 	{
-		"felin": "tina-henrhi",
-		"english": "twenty three",
-		"hint": "23",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 43"
+		"felin": "tinehen-karhi",
+		"english": "one hundred thirty",
+		"hint": "130",
+		"pos": "numeral"
 	},
 	{
-		"felin": "tina-karhi",
-		"english": "twenty two",
-		"hint": "22",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 42"
+		"felin": "tinehen-lokarhi",
+		"english": "one hundred forty",
+		"hint": "140",
+		"pos": "numeral"
 	},
 	{
-		"felin": "tina-nemrhi",
-		"english": "twenty four",
-		"hint": "20",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 44"
-	},
-	{
-		"felin": "tinemrhi",
-		"english": "twenty",
-		"hint": "20",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 40"
+		"felin": "tineka-nehenrhi",
+		"english": "one hundred twenty",
+		"hint": "120",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tinemrhirha",
@@ -12859,23 +12726,94 @@
 		"notes": "Mind the number base: this is written 40"
 	},
 	{
+		"felin": "tinene-lohenrhi",
+		"english": "one hundred nine",
+		"hint": "109",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-lokarhi",
+		"english": "one hundred eight",
+		"hint": "108",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-lonemrhi",
+		"english": "one hundred ten",
+		"hint": "110",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-lonerhi",
+		"english": "one hundred seven",
+		"hint": "107",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-losarhi",
+		"english": "one hundred six",
+		"hint": "106",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nehenrhi",
+		"english": "one hundred four",
+		"hint": "104",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nekarhi",
+		"english": "one hundred three",
+		"hint": "103",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nemrhi",
+		"english": "one hundred",
+		"hint": "100",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nemrhi",
+		"english": "hundred",
+		"hint": "number",
+		"pos": "determiner"
+	},
+	{
+		"felin": "tinene-nenemrhi",
+		"english": "one hundred five",
+		"hint": "105",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nenerhi",
+		"english": "one hundred two",
+		"hint": "102",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinene-nesarhi",
+		"english": "one hundred one",
+		"hint": "101",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tinesarhi",
+		"english": "eighty",
+		"hint": "80",
+		"pos": "numeral"
+	},
+	{
+		"felin": "tines-losarhi",
+		"english": "ninety",
+		"hint": "90",
+		"pos": "numeral"
+	},
+	{
 		"felin": "tisarhi",
-		"english": "five",
-		"hint": "5",
-		"pos": "numeral",
-		"notes": "Mind the number base: this is written 10"
-	},
-	{
-		"felin": "tisarklave",
-		"english": "pentagon",
-		"pos": "noun"
-	},
-	{
-		"felin": "tisarha grewhura",
-		"english": "may",
-		"hint": "month",
-		"pos": "proper noun",
-		"notes": "Fifth Gre(gorian) month"
+		"english": "sixteen",
+		"hint": "16",
+		"pos": "numeral"
 	},
 	{
 		"felin": "tiun",
@@ -12996,15 +12934,15 @@
 		"notes": "Felin measure temperatures in degrees emotue."
 	},
 	{
-		"felin": "tuil'oe",
-		"english": "be nice",
-		"pos": "verb"
-	},
-	{
 		"felin": "tuile",
 		"english": "nice",
 		"hint": "fine, good, kind",
 		"pos": "adjective"
+	},
+	{
+		"felin": "tuil'oe",
+		"english": "be nice",
+		"pos": "verb"
 	},
 	{
 		"felin": "tulher",
@@ -13337,14 +13275,14 @@
 		"pos": "adjective"
 	},
 	{
-		"felin": "urthakhi",
-		"english": "iridium",
-		"hint": "element",
+		"felin": "urtha putfhilite",
+		"english": "white wine",
 		"pos": "noun"
 	},
 	{
-		"felin": "urtha putfhilite",
-		"english": "white wine",
+		"felin": "urthakhi",
+		"english": "iridium",
+		"hint": "element",
 		"pos": "noun"
 	},
 	{
@@ -13890,17 +13828,17 @@
 		"pos": "noun"
 	},
 	{
-		"felin": "wa'iat",
-		"english": "w",
-		"hint": "letter",
-		"pos": "noun"
-	},
-	{
 		"felin": "waeiat",
 		"english": "y",
 		"hint": "letter",
 		"pos": "noun",
 		"notes": "Refers to the Latin letter."
+	},
+	{
+		"felin": "wa'iat",
+		"english": "w",
+		"hint": "letter",
+		"pos": "noun"
 	},
 	{
 		"felin": "waisaevohtash",
