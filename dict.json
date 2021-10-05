@@ -9402,6 +9402,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "pathe",
+		"english": "forsake",
+		"hint": "abandon, renounce",
+		"pos": "verb"
+	},
+	{
 		"felin": "patirn",
 		"english": "circle",
 		"hint": "geometry",
