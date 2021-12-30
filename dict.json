@@ -5515,7 +5515,7 @@
 		"notes": "With catlike tread BADUMPADUMP"
 	},
 	{
-		"felin": "khatfaliv",
+		"felin": "khatfel",
 		"english": "cat person",
 		"hint": "cat-person (humanoid) [N]",
 		"pos": "noun",
@@ -11071,6 +11071,12 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "sehrfel",
+		"english": "no one",
+		"hint": "pronoun",
+		"pos": "pronoun"
+	},
+	{
 		"felin": "serhgriuheiaw",
 		"english": "powerless",
 		"pos": "adjective"
@@ -11097,12 +11103,6 @@
 		"english": "unloved",
 		"hint": "not loved",
 		"pos": "adjective"
-	},
-	{
-		"felin": "serliv",
-		"english": "no one",
-		"hint": "pronoun",
-		"pos": "pronoun"
 	},
 	{
 		"felin": "setiat",
