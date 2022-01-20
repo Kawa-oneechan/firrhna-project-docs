@@ -1760,6 +1760,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "dekae",
+		"english": "shadow",
+		"hint": "darkness",
+		"pos": "noun"
+	},
+	{
 		"felin": "dekobsuf",
 		"english": "dark brown",
 		"hint": "colour",
@@ -5614,6 +5620,16 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "khratu",
+		"english": "doom",
+		"pos": "noun"
+	},
+	{
+		"felin": "khratu",
+		"english": "doom",
+		"pos": "verb"
+	},
+	{
 		"felin": "khrime",
 		"english": "scream",
 		"pos": "noun"
@@ -7724,6 +7740,16 @@
 	{
 		"felin": "misurr",
 		"english": "laugh",
+		"pos": "noun"
+	},
+	{
+		"felin": "mithathaw",
+		"english": "mortal",
+		"pos": "adjective"
+	},
+	{
+		"felin": "mithathi",
+		"english": "mortal",
 		"pos": "noun"
 	},
 	{
