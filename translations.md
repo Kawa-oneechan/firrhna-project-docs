@@ -40,7 +40,7 @@
 | Friends are like cows - if you eat them, they die.           | pliamie plua mureh oeni. shia oun mlithel, kvutheseni.       |
 | Gotta catch 'em all                                          | etha oun sihrae teura'e                                      |
 | Happy new year!                                              | pruimi pralchir!                                             |
-| Hello. My name is Inigo Montoya. You killed my father. Prepare to die. | mihli. eun'itusu iniko montoia'en. euna fenir rulkathe'ew. be kvuthi sudva'il. |
+| Hello. My name is Inigo Montoya. You killed my father. Prepare to die. | mihli. euna itusu iniko montoia oen. euna fenir rulkathe'ew. chi kvuthi sudva'il. |
 | Here lies the guardian, keeper of dragonstone and a **force** of unending rage and darkness | uwis vrhasthes rahwan, riushfhra wra drarhathu emi **griuve** wra rograhs emi deku nar vil alem |
 | Heroes never die!                                            | lehfel'siti kvuth!                                           |
 | Hey, don't knock masturbation. It's sex with someone I love. | oi, ruimi charefhie nar grilh'aevoh'ia. lufhie vil fel shigril oe'e. |
@@ -79,7 +79,7 @@
 | I will make a new home.                                      | pralchi raiwum plarithsena.                                  |
 | I'd like to be a tree.                                       | fulriut oelite mlagril.                                      |
 | I'll have a number nine, a number nine large, a number six with extra sauce, a number seven, two number forty-fives, one with cheese, and a large soda. | vue tie-nemrhi, shalrae tie-nemrhi, vue tie-erhi vil ori padvu, vue tie-karhi, sha'e-tinemrhi shira kae, erhi vil fenom, emi shalrae shintanik barisena. |
-| I'll leave tomorrow's problems to tomorrow's me.             | karrdi wra kasulmi be eun wra kasulmi oen.                   |
+| I'll leave tomorrow's problems to tomorrow's me.             | karrdi wra kasulmi chi eun wra kasulmi oen.                   |
 | I'll take a potato chip... and eat it!                       | potasuumi borosena... e'mlithesen!                           |
 | I'm Bobbin. Are you my mother?                               | bobbin'el. euna fena oeia?                                   |
 | I'm Brian, and so is my wife!                                | eun brian oel, em'euna mrifhia imo'en!                       |
@@ -125,7 +125,7 @@
 | One word and I'll hit you again.                             | ewfolme, em'latrei tiun seulthisena.                         |
 | People arise; for the world is dead.                         | fel fheveil; klamithe kvuthirm oe'e.                         |
 | People die when they are killed.                             | fahri rulkathenitei, fel kvuthni.                            |
-| Phenomenal cosmic powers, itty bitty living space! oiftunaw griuhei, thuir uvhil! |                                                              |
+| Phenomenal cosmic powers, itty bitty living space!           | oiftunaw griuhei, thuir uvhil! |                                                              |
 | Ray, when some asks you if you're a god, you say yes!        | rae, fahri chaerrnah oelia aramin, rhi aramo'il!             |
 | Remain Klingon!                                              | khlin'on semvabi'il!                                         |
 | Science is whatever you want it to be.                       | intiu sulion tiun rhfia'e oen.                               |
