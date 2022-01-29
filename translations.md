@@ -147,6 +147,7 @@
 | They’re not women’s clothes. They’re my clothes. I bought them. | oruit wra fela nar oeni. euna oruit 'eni. eun omkitlw.       |
 | Thinking is the best way to travel.                          | elifahelite mriwi leithroa chi vliromi oen.                  |
 | This guy's got shoes!                                        | asurr felir rihae barin!                                     |
+| This is the Way.                                             | asurr leithroa'en.                                           |
 | To be, or not to be? That is the question.                   | oenite nuri nar oenite, hiurh arinos oen.                    |
 | Too long, didn't read.                                       | imo silhra, nar aevashlw.                                    |
 | Toto, I've a feeling we're not in Kansas anymore.            | toto, nar ovori birh kansas oeli elifahel.                   |
