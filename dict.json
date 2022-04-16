@@ -7980,6 +7980,16 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "mri'en",
+		"english": "pride",
+		"pos": "noun"
+	},
+	{
+		"felin": "mri'enaw",
+		"english": "proud",
+		"pos": "adjective"
+	},
+	{
 		"felin": "mriev",
 		"english": "please",
 		"hint": "polite request",
