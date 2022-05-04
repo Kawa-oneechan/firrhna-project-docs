@@ -859,6 +859,12 @@
 		"pos": "verb"
 	},
 	{
+		"felin": "bachesh",
+		"english": "foot",
+		"hint": "body part",
+		"pos": "noun"
+	},
+	{
 		"felin": "bachi",
 		"english": "leg",
 		"hint": "of animate thing",
