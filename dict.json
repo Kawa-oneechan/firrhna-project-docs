@@ -2712,6 +2712,11 @@
 		"notes": "Contraction of 'etha hul'."
 	},
 	{
+		"felin": "ethria",
+		"english": "weapon",
+		"pos": "noun"
+	},
+	{
 		"felin": "eufu",
 		"english": "fix",
 		"pos": "verb"
@@ -6463,6 +6468,11 @@
 		"felin": "legro",
 		"english": "atom",
 		"pos": "noun"
+	},
+	{
+		"felin": "legrorthlimaw",
+		"english": "atomic",
+		"pos": "adjective"
 	},
 	{
 		"felin": "legroaw",
