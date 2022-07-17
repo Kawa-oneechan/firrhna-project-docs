@@ -10596,6 +10596,11 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "rithe",
+		"english": "wait",
+		"pos": "verb"
+	},
+	{
 		"felin": "rito",
 		"english": "menu",
 		"hint": "software",
