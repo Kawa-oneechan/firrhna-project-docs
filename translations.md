@@ -72,7 +72,7 @@
 | I only upload high quality video game rips.                  | eka mruvruame prifhe'i'eia pimlal.                           |
 | I smelled that.                                              | hiurh ukhterilw.                                             |
 | I think, therefore, I am.                                    | elifahel, thilba oel.                                        |
-| I want my hat back.                                          | euna lafrha rulvith rhfial..                                 |
+| I want my hat back.                                          | euna lafrha rulvith rhfial.                                 |
 | I want to fuck!                                              | fhie rhfial!                                                 |
 | I want to play a game...                                     | prifhevi chi amuchil rhfial...                               |
 | I went to her.                                               | chi oun prohlw.                                              |
