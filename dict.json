@@ -6918,6 +6918,12 @@
 		"pos": "numeral"
 	},
 	{
+		"felin": "lokaroku",
+		"english": "dodecahedron",
+		"hint": "polyhedron with 12 faces",
+		"pos": "noun"
+	},
+	{
 		"felin": "lomeli",
 		"english": "west",
 		"hint": "compass direction",
@@ -8795,6 +8801,11 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "nenroku",
+		"english": "cube",
+		"pos": "noun"
+	},
+	{
 		"felin": "neptun",
 		"english": "Neptune",
 		"hint": "planet",
@@ -9497,6 +9508,16 @@
 		"felin": "patirnaw",
 		"english": "circular",
 		"pos": "adjective"
+	},
+	{
+		"felin": "patroku",
+		"english": "ball",
+		"pos": "noun"
+	},
+	{
+		"felin": "patroku",
+		"english": "sphere",
+		"pos": "noun"
 	},
 	{
 		"felin": "pavset",
