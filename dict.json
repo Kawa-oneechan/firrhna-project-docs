@@ -983,7 +983,7 @@
 	{
 		"felin": "belausuf",
 		"english": "rust-red",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "noun"
 	},
 	{
@@ -1779,7 +1779,7 @@
 	{
 		"felin": "dekobsuf",
 		"english": "dark brown",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -1808,7 +1808,7 @@
 	{
 		"felin": "deku oe",
 		"english": "be dark",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "verb"
 	},
 	{
@@ -1820,25 +1820,25 @@
 	{
 		"felin": "dekulavla",
 		"english": "dark red",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "noun"
 	},
 	{
 		"felin": "dekulavuhi",
 		"english": "dark green",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
 		"felin": "dekulithi",
 		"english": "dark blue",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
 		"felin": "dekunevla",
 		"english": "dark orange",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -2002,7 +2002,7 @@
 	{
 		"felin": "drivla",
 		"english": "infrared",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective",
 		"notes": "Felin have infra-vision."
 	},
@@ -3052,7 +3052,7 @@
 	{
 		"felin": "fetahra",
 		"english": "dark grey",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -3178,13 +3178,13 @@
 	{
 		"felin": "fhevla",
 		"english": "yellow",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
 		"felin": "fhevla oe",
 		"english": "be yellow",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "verb"
 	},
 	{
@@ -3371,7 +3371,7 @@
 	{
 		"felin": "fhrissvuhi",
 		"english": "water green",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -4797,7 +4797,7 @@
 	{
 		"felin": "imelavla",
 		"english": "bright red",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "noun"
 	},
 	{
@@ -4809,7 +4809,7 @@
 	{
 		"felin": "imelavuhi",
 		"english": "light green",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -6095,7 +6095,7 @@
 	{
 		"felin": "kulithi",
 		"english": "blue",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -6347,7 +6347,7 @@
 	},
 	{
 		"felin": "lamvehi",
-		"english": "colour of night",
+		"english": "color of night",
 		"hint": "describes the night",
 		"pos": "noun"
 	},
@@ -6403,7 +6403,7 @@
 	{
 		"felin": "lavla",
 		"english": "red",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -6425,7 +6425,7 @@
 	{
 		"felin": "lavuhi",
 		"english": "green",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -8368,7 +8368,7 @@
 	{
 		"felin": "muhvtu",
 		"english": "grey",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -8456,13 +8456,13 @@
 	{
 		"felin": "muthu",
 		"english": "violet",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
 		"felin": "muthu",
 		"english": "purple",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -8653,8 +8653,8 @@
 	},
 	{
 		"felin": "narvehi'aw",
-		"english": "colourless",
-		"hint": "without colour",
+		"english": "colorless",
+		"hint": "without color",
 		"pos": "adjective"
 	},
 	{
@@ -8832,7 +8832,7 @@
 	{
 		"felin": "nethae",
 		"english": "pink",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -8845,13 +8845,13 @@
 	{
 		"felin": "nevla",
 		"english": "orange",
-		"hint": "name of the colour",
+		"hint": "name of the color",
 		"pos": "noun"
 	},
 	{
 		"felin": "nevla",
 		"english": "orange",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -8989,7 +8989,7 @@
 	{
 		"felin": "obsuf",
 		"english": "brown",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -12117,7 +12117,7 @@
 	},
 	{
 		"felin": "sulvehi",
-		"english": "colour of day",
+		"english": "color of day",
 		"hint": "describes the day",
 		"pos": "noun"
 	},
@@ -12250,7 +12250,7 @@
 	{
 		"felin": "suvuhi",
 		"english": "cyan",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -12262,7 +12262,7 @@
 	{
 		"felin": "tahra",
 		"english": "black",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -12588,7 +12588,7 @@
 	{
 		"felin": "thuklavla",
 		"english": "blood red",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -13366,7 +13366,7 @@
 	{
 		"felin": "urtha",
 		"english": "white",
-		"hint": "colour",
+		"hint": "color",
 		"pos": "adjective"
 	},
 	{
@@ -13572,26 +13572,26 @@
 	},
 	{
 		"felin": "vehi",
-		"english": "colour",
-		"hint": "to give colour to",
+		"english": "color",
+		"hint": "to give color to",
 		"pos": "verb"
 	},
 	{
 		"felin": "vehi",
-		"english": "colour",
+		"english": "color",
 		"hint": "red, blue, etc.",
 		"pos": "noun"
 	},
 	{
 		"felin": "vehi'aw",
-		"english": "coloured",
-		"hint": "with colour",
+		"english": "colored",
+		"hint": "with color",
 		"pos": "adjective"
 	},
 	{
 		"felin": "vehihau",
 		"english": "rainbow",
-		"hint": "colourful bow at the sky",
+		"hint": "colorful bow at the sky",
 		"pos": "noun"
 	},
 	{
