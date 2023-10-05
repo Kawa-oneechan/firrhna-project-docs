@@ -2807,6 +2807,16 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "falirtha",
+		"english": "wisdom",
+		"pos": "noun"
+	},
+	{
+		"felin": "falirthaw",
+		"english": "wise",
+		"pos": "adjective"
+	},
+	{
 		"felin": "fash",
 		"english": "cock",
 		"hint": "penis; vulgar",
