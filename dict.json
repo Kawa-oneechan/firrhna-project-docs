@@ -493,6 +493,12 @@
 		"pos": "adjective"
 	},
 	{
+		"felin": "alkavah",
+		"english": "integrity",
+		"hint": "wholeness",
+		"pos": "noun"
+	},
+	{
 		"felin": "alnar",
 		"english": "maybe not",
 		"hint": "maybe not",
@@ -694,6 +700,12 @@
 		"english": "be played",
 		"hint": "game",
 		"pos": "verb"
+	},
+	{
+		"felin": "apochie",
+		"english": "apogee",
+		"hint": "astronomy",
+		"pos": "noun"
 	},
 	{
 		"felin": "arami",
@@ -907,6 +919,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "bali",
+		"english": "hull",
+		"hint": "of a ship",
+		"pos": "noun"
+	},
+	{
 		"felin": "ban",
 		"english": "queen",
 		"hint": "female ruler",
@@ -1024,6 +1042,12 @@
 		"english": "may",
 		"hint": "possibility",
 		"pos": "auxiliary"
+	},
+	{
+		"felin": "berha",
+		"english": "band",
+		"hint": "radio",
+		"pos": "noun"
 	},
 	{
 		"felin": "bhalti",
@@ -1328,6 +1352,12 @@
 		"felin": "bukhepalru",
 		"english": "computer work",
 		"hint": "professional/important stuff done on/with a computer",
+		"pos": "noun"
+	},
+	{
+		"felin": "bukherat",
+		"english": "screen",
+		"hint": "electronic screen displaying pixels",
 		"pos": "noun"
 	},
 	{
@@ -1739,6 +1769,11 @@
 		"felin": "dahrif",
 		"english": "mach",
 		"hint": "speed of sound",
+		"pos": "noun"
+	},
+	{
+		"felin": "dake",
+		"english": "phase",
 		"pos": "noun"
 	},
 	{
@@ -2521,6 +2556,11 @@
 		"english": "apply",
 		"hint": "use as/for",
 		"pos": "verb"
+	},
+	{
+		"felin": "erat",
+		"english": "display",
+		"pos": "noun"
 	},
 	{
 		"felin": "erdinfi",
@@ -4469,6 +4509,12 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "iankhomi",
+		"english": "compression",
+		"hint": "reduction of size",
+		"pos": "noun"
+	},
+	{
 		"felin": "iapan",
 		"english": "Japan",
 		"hint": "Japan is an island by the sea",
@@ -4981,6 +5027,12 @@
 	{
 		"felin": "irifu",
 		"english": "speed",
+		"pos": "noun"
+	},
+	{
+		"felin": "irifu",
+		"english": "velocity",
+		"hint": "speed",
 		"pos": "noun"
 	},
 	{
@@ -7664,6 +7716,11 @@
 		"english": "be silly",
 		"hint": "like a clown",
 		"pos": "verb"
+	},
+	{
+		"felin": "miarthu",
+		"english": "tension",
+		"pos": "noun"
 	},
 	{
 		"felin": "mibri",
@@ -10605,6 +10662,11 @@
 		"pos": "noun"
 	},
 	{
+		"felin": "rinta",
+		"english": "shift",
+		"pos": "noun"
+	},
+	{
 		"felin": "risb",
 		"english": "outside",
 		"pos": "adposition"
@@ -10675,6 +10737,11 @@
 		"felin": "riutslivfhra",
 		"english": "exaggerator",
 		"hint": "one who exaggerates",
+		"pos": "noun"
+	},
+	{
+		"felin": "rolain",
+		"english": "field",
 		"pos": "noun"
 	},
 	{
@@ -13947,6 +14014,12 @@
 		"felin": "wa'iat",
 		"english": "w",
 		"hint": "letter",
+		"pos": "noun"
+	},
+	{
+		"felin": "wailtha",
+		"english": "warp",
+		"hint": "sci-fi",
 		"pos": "noun"
 	},
 	{
