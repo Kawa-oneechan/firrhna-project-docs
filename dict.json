@@ -5250,7 +5250,16 @@
 	{
 		"felin": "ivlemkhi",
 		"english": "niobium",
-		"hint": " ",
+		"pos": "noun"
+	},
+	{
+		"felin": "ka'iarli",
+		"english": "business",
+		"pos": "noun"
+	},
+	{
+		"felin": "ka'iashim",
+		"english": "corporation",
 		"pos": "noun"
 	},
 	{
@@ -9541,6 +9550,11 @@
 		"felin": "parthifhra",
 		"english": "dancer",
 		"pos": "noun"
+	},
+	{
+		"felin": "paslinit",
+		"english": "transmit",
+		"pos": "verb"
 	},
 	{
 		"felin": "pat'hau",
