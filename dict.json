@@ -35,6 +35,12 @@
 		"pos": "affix"
 	},
 	{
+		"felin": "-ta",
+		"english": "-less",
+		"hint": "without",
+		"pos": "affix"
+	},
+	{
 		"felin": "-tash",
 		"english": "study of",
 		"hint": "the study of...",
@@ -2539,6 +2545,18 @@
 		"hint": "ruler",
 		"pos": "noun",
 		"notes": "Loanword. Felin don't have emperors — they have councilmen."
+	},
+	{
+		"felin": "emraet",
+		"english": "behavior",
+		"hint": "one's actions",
+		"pos": "noun"
+	},
+	{
+		"felin": "emraet",
+		"english": "behave",
+		"hint": "act like",
+		"pos": "verb"
 	},
 	{
 		"felin": "emrelt",
@@ -9462,6 +9480,12 @@
 	{
 		"felin": "paken",
 		"english": "minute",
+		"pos": "noun"
+	},
+	{
+		"felin": "palfui",
+		"english": "hobby",
+		"hint": "activity",
 		"pos": "noun"
 	},
 	{
